@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "player_characters/Amon-Ra.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "player_characters/Amon-Ra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "player_characters/Amon-Ra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "player_characters/Amon-Ra.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "bf7afbe7d986ca33",
   "lastOpenFiles": [
+    "_sidebar.md",
     "player_characters/Amon-Ra.md",
     "templates/session-log.md",
     "templates/player-character.md",
@@ -157,7 +158,6 @@
     "templates/item.md",
     "templates/headlines.md",
     "templates",
-    "_sidebar.md",
     "pdf/Amon-Ra.pdf",
     "pdf",
     "images/AmonRa.jpg",
