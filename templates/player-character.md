@@ -1,10 +1,10 @@
----
+<!--
 type: player-character
 created-by:
----
+-->
+
 brief description
-![[]]
-[Hero Designer File](<>)
+![title](../images/image.jpg)
 
 [AKA](#AKA)
 [Appearance](#Appearance)
@@ -71,8 +71,8 @@ Notes: |
 Issue 01 - Invasion (War of the Worlds Part 1)
 
 ## Character Sheet
-![[]]
+[Character Sheet](../pdf/charcter_sheet.pdf)
 
-%% GM Notes
+<!-- GM Notes
 Things in here don't show up in normal viewing mode.
-%%
+-->
