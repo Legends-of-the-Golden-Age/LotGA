@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "player_characters/Amon-Ra.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "bf7afbe7d986ca33",
   "lastOpenFiles": [
-    "organizations/Vanguard.md",
+    "npcs/Marie_Delaunay.md",
     "player_characters/Amon-Ra.md",
+    "npcs",
+    "templates/player-character.md",
+    "organizations/Vanguard.md",
     "_sidebar.md",
     "organizations",
-    "templates/player-character.md",
     "templates/session-log.md",
     "templates/organization.md",
     "templates/NPC.md",

@@ -8,24 +8,24 @@ An archaeologist who discovered several magical relics in the area that was once
 
 ![Amon-Ra](../images/AmonRa.jpg)
 
-[AKA](#AKA)
-[Appearance](#Appearance)
-[Personality](#Personality)
-[Origin](#Origin)
-[Powers](#Powers)
-[Notes](#Notes)
-[Allies](#Allies)
-[Associates](Lawrence%20Alexander%20Williams.md#Associates)
-[Birthplace](#Birthplace)
-[Enemies](#Enemies)
-[Home](#Home)
-[Property](#Property)
-[Memberships](#Memberships)
-[Relations](#Relations)
-[Rivals](#Rivals)
-[Visited](#Visited)
-[Adventures](#Adventures)
-[Character Sheet](#Character%20Sheet)
+- [AKA](#AKA)
+- [Appearance](#Appearance)
+- [Personality](#Personality)
+- [Origin](#Origin)
+- [Powers](#Powers)
+- [Notes](#Notes)
+- [Allies](#Allies)
+- [Associates](Lawrence%20Alexander%20Williams.md#Associates)
+- [Birthplace](#Birthplace)
+- [Enemies](#Enemies)
+- [Home](#Home)
+- [Property](#Property)
+- [Memberships](#Memberships)
+- [Relations](#Relations)
+- [Rivals](#Rivals)
+- [Visited](#Visited)
+- [Adventures](#Adventures)
+- [Character Sheet](#Character%20Sheet)
 
 ## AKA:
 Franklin Kinsey, Professor Kinsey
@@ -124,7 +124,7 @@ An abandoned church in [Queens, NY].
 - [New York University] (employee)
 
 ### Relations
-- [Marie Delaunay] (wife, deceased)
+- [Marie Delaunay](/npcs/Marie_Delaunay.md) (wife, deceased)
 
 ### Rivals
 - [Zoltan the Magnificent] (friendly)
