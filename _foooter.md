@@ -1,0 +1,1 @@
+Legends of the Golden Age created by [Deric Page](mailto:deric.page@usa.net).
