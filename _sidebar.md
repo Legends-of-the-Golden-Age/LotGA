@@ -1,3 +1,3 @@
 - [Home](/)
-- [Player Characters]
-	- [Amon-Ra]
+- Player Characters
+	- [Amon-Ra](/player_character/Amon-Ra.md)
