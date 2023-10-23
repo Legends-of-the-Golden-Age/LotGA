@@ -1,9 +1,11 @@
----
+%%
 type: player-character
 created-by:
----
+%%
+
 # Amon-Ra
 An archaeologist who discovered several magical relics in the area that was once the border of ancient Mesopotamia and Egypt.  The helmet proved to be a conduit to a higher being who taught Franklin to use the various artifacts he found and how to use true magic.  In return, he must combat the forces of chaos and evil, especially those of a mystic nature.
+
 ![Amon-Ra](../images/AmonRa.jpg)
 
 [AKA](#AKA)
@@ -135,7 +137,7 @@ An abandoned church in [Queens, NY].
 Issue 01 - Invasion (War of the Worlds Part 1)
 
 ## Character Sheet
-[Character Sheet](/pdf/Amon-Ra.pdf)
+[Character Sheet](../pdf/Amon-Ra.pdf)
 
 %% GM Notes
 Things in here don't show up in normal viewing mode.
