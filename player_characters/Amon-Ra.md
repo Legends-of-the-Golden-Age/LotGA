@@ -137,7 +137,7 @@ An abandoned church in [Queens, NY].
 Issue 01 - Invasion (War of the Worlds Part 1)
 
 ## Character Sheet
-[Character Sheet](../pdf/Amon-Ra.pdf)
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Amon-Ra.pdf)
 
 <!-- GM Notes
 Things in here don't show up in normal viewing mode.
