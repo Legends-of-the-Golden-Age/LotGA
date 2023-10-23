@@ -1,3 +1,5 @@
 - [Home](/)
 - Player Characters
 	- [Amon-Ra](/player_characters/Amon-Ra.md)
+- Organizations
+	- [Vanguard](/organizations/Vanguard.md)

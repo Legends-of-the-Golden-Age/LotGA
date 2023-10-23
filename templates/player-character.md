@@ -71,7 +71,7 @@ Notes: |
 Issue 01 - Invasion (War of the Worlds Part 1)
 
 ## Character Sheet
-[Character Sheet](../pdf/charcter_sheet.pdf)
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/character.pdf)
 
 <!-- GM Notes
 Things in here don't show up in normal viewing mode.
