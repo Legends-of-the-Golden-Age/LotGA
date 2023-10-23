@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "player_characters/Amon-Ra.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "player_characters/Amon-Ra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "player_characters/Amon-Ra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Vanguard.md"
+                "file": "player_characters/Amon-Ra.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "bf7afbe7d986ca33",
   "lastOpenFiles": [
-    "_sidebar.md",
     "organizations/Vanguard.md",
     "player_characters/Amon-Ra.md",
+    "_sidebar.md",
     "organizations",
     "templates/player-character.md",
     "templates/session-log.md",

@@ -120,7 +120,7 @@ An abandoned church in [Queens, NY].
 - an [Abandoned Church]
 
 ### Memberships
-- [Vanguard]
+- [Vanguard](/organizations/Vanguard.md)
 - [New York University] (employee)
 
 ### Relations
