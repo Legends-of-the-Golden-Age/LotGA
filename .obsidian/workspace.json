@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_foooter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_foooter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_foooter.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,9 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf7afbe7d986ca33",
+  "active": "70811577ab13516e",
   "lastOpenFiles": [
-    "_sidebar.md",
-    "_foooter.md"
+    "New Text Document.txt",
+    "_foooter.md",
+    "Untitled.md",
+    "_sidebar.md"
   ]
 }
