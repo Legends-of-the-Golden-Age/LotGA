@@ -38,6 +38,7 @@ Eyes: | Brown
 Height: | 6' 6"
 Weight: | 216 lbs
 Gender: | Male
+Born: | unknown
 Notes: |
 
 ## Personality
@@ -77,40 +78,41 @@ Over the next two years Franklin learned the science of magic as was led to seve
 - [Guardians of Freedom]
 
 ### Associates
-- [Chester Dupé] 
-- [Mark Dupé] 
-- [Click-Click-Hoot]
-- [Burt 'Barnstormer' Barlow] 
-- [Lucy LaMonte] 
 - [Brian Loganach] 
+- [Burt 'Barnstormer' Barlow] 
+- [Chester Dupé] 
+- [Click-Click-Hoot]
 - [Det. Beaumont] 
-- [Officer Layne] 
-- [Special Agent Lawrence Alexander Williams] 
+- [Diamondback](player_characters/Diamondback.md)
+- [Lucy LaMonte] 
+- [Mark Dupé] 
 - [Officer Fitz] 
+- [Officer Layne] 
 - [Officer Smitty]
+- [Special Agent Lawrence Alexander Williams] 
 
 ### Birthplace
 [New York City]
 
 ### Enemies
-- [Martians]
+- [Atlanteans]
+- [Black Fin]
+- [Colletti Mob]
+- [Der Rind]
+- [Die Hexe]
 - [Doc Macabre]
-- the [Elemental Androids]
+- [Dr. Johannas Wagner]
+- [Fire Hawk]
+- [Martians]
+- [Steel Shark]
 - the [Axis Legion]
 - the [Cult of the Naga]
-- the [Serpent King]
+- the [Elemental Androids]
 - the [Fascist Society of America]
-- the [SuperMercs]
-- [Atlanteans]
-- [Colletti Mob]
-- [Dr. Johannas Wagner]
-- [Valusi]
-- [Fire Hawk]
-- [Black Fin]
-- [Steel Shark]
-- [Die Hexe]
-- [Der Rind]
 - the [Knight of Crows]
+- the [Serpent King]
+- the [SuperMercs]
+- [Valusi]
 
 ### Home
 An abandoned church in [Queens, NY].

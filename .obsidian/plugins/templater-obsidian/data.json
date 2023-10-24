@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "player_characters",
+      "template": "templates/player-character.md"
+    },
+    {
+      "folder": "organizations",
+      "template": "templates/organization.md"
+    },
+    {
+      "folder": "npcs",
+      "template": "templates/NPC.md"
+    },
+    {
+      "folder": "headlines",
+      "template": "templates/headlines.md"
+    },
+    {
+      "folder": "items",
+      "template": "templates/item.md"
+    },
+    {
+      "folder": "locations",
+      "template": "templates/location.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
+            "id": "81f5a3208c07ea9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "player_characters/Diamondback.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "bf7afbe7d986ca33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "player_characters/Amon-Ra.md",
-                "mode": "preview",
+                "file": "templates/session-log.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_characters/Amon-Ra.md",
+                "file": "templates/session-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_characters/Amon-Ra.md",
+                "file": "templates/session-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "player_characters/Amon-Ra.md"
+                "file": "templates/session-log.md"
               }
             }
           }
@@ -149,27 +164,40 @@
   },
   "active": "bf7afbe7d986ca33",
   "lastOpenFiles": [
-    "npcs/Marie_Delaunay.md",
-    "player_characters/Amon-Ra.md",
-    "npcs",
     "templates/player-character.md",
-    "organizations/Vanguard.md",
-    "_sidebar.md",
-    "organizations",
-    "templates/session-log.md",
     "templates/organization.md",
     "templates/NPC.md",
+    "templates/location.md",
     "templates/item.md",
     "templates/headlines.md",
+    "player_characters/Diamondback.md",
+    "player_characters/Amon-Ra.md",
+    "organizations/Vanguard.md",
+    "organizations/Antonova_Corporation.md",
+    "npcs/Victor_Antonova.md",
+    "npcs/Marie_Delaunay.md",
+    "npcs/Lydia_Antonova.md",
+    "npcs/Dominic_Antonova.md",
+    "locations/New_York_City.md",
+    "locations/Antonova_Estate.md",
+    "items/Arizona_Crystal.md",
+    "_sidebar.md",
+    "images/glowing_diamond.jpg",
+    "images/glowing_diamond.jpg.crdownload",
+    "items/Atlantean_Crystal.md",
+    "locations",
+    "pdf/Diamondback.pdf",
+    "images/Diamondback.png",
+    "_footer.md",
+    "templates/session-log.md",
+    "story_arcs",
+    "sessions",
+    "items",
+    "headlines",
+    "npcs",
+    "organizations",
     "templates",
-    "pdf/Amon-Ra.pdf",
-    "pdf",
     "images/AmonRa.jpg",
-    "images",
-    "_foooter.md",
-    "Untitled.md",
-    "player_characters/Untitled",
-    "player_characters",
-    "New Text Document.txt"
+    "Untitled.md"
   ]
 }

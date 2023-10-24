@@ -2,10 +2,7 @@
 type: non-player-character
 created-by:
 -->
-
-# Name
-
-brief description
+Brother of [Diamondback](player_characters/Diamondback.md).
 
 ## AKA:
 
@@ -16,9 +13,9 @@ Hair: |
 Eyes: | 
 Height: |
 Weight: |
-Gender: |
+Gender: | Male
+Born: | 1893
 Notes: |
-![picture](../images/image.jpg)
 
 ## Background / Origin
 
@@ -35,16 +32,24 @@ Notes: |
 ### Associates
 
 ### Birthplace
+[New York City](locations/New_York_City.md)
 
 ### Enemies
 
 ### Home
+[Antonova Estate](locations/Antonova_Estate.md)
 
 ### Property
+[Antonova Estate](locations/Antonova_Estate.md)
 
 ### Memberships
+[Antonova Corporation](organizations/Antonova_Corporation.md) (founder and majority shareholder)
 
 ### Relations
+- [Diamondback](player_characters/Diamondback.md) (daughter)
+- Shard (daughter)
+- [Lydia Antonova](npcs/Lydia_Antonova.md) (wife)
+- [Victor_Antonova](npcs/Victor_Antonova.md) (son)
 
 ### Rivals
 

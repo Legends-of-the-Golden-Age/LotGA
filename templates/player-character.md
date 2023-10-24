@@ -2,6 +2,7 @@
 type: player-character
 created-by:
 -->
+# Name
 
 brief description
 ![title](../images/image.jpg)
@@ -35,6 +36,7 @@ Eyes: |
 Height: |
 Weight: |
 Gender: |
+Born: |
 Notes: |
 
 ## Personality
