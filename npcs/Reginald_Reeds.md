@@ -5,7 +5,7 @@ created-by:
 
 # Dr. Reginald Reeds
 
-Dr. Reginald Reeds is a private medical researcher who has taken many contracts with the U.S. Government.  He is the employer of [Double_Time](../player_characters/Double_Time.md), though he did not know it initially.
+Dr. Reginald Reeds is a private medical researcher who has taken many contracts with the U.S. Government.  He is the employer of [Double_Time](/player_characters/Double_Time.md), though he did not know it initially.
 
 Known for having a short temper and little patience, Dr. Reeds believes that he's the smartest man in the room.  The irritating part is that he's usually right.
 
@@ -29,20 +29,20 @@ Notes: |
 ## Notes
 
 ### Associates
-- [Double_Time](../player_characters/Double_Time.md)
+- [Double_Time](/player_characters/Double_Time.md)
 
 ### Enemies
 - Nazis
 
 ### Home
-[New York City](../locations/New_York_City.md)
+[New York City](/locations/New_York_City.md)
 
 ### Property
 
 ### Memberships
 
 ### Relations
-- [Double_Time](../player_characters/Double_Time.md) (foster son)
+- [Double_Time](/player_characters/Double_Time.md) (foster son)
 
 ### Rivals
 - Almost any other doctor or scientist.

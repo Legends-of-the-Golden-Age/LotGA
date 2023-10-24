@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Reginald_Reeds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Reginald_Reeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Reginald_Reeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "npcs/Reginald_Reeds.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
     "player_characters/Double_Time.md",
+    "_sidebar.md",
     "npcs/Reginald_Reeds.md",
     "pdf/Reginald_Reeds.pdf",
     "pdf/Double-Time.pdf",
@@ -168,7 +169,6 @@
     "npcs/Dominic_Antonova.md",
     "templates/headlines.md",
     "locations/Staten_Island.md",
-    "_sidebar.md",
     "player_characters/Amon-Ra.md",
     "organizations/Vanguard.md",
     "organizations/Antonova_Corporation.md",

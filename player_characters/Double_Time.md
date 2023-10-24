@@ -6,7 +6,7 @@ created-by:
 
 As a young lab assistant, Ben, was caught in a lab accident during a strange experiment.  Afterward, he found himself possessed of phenomenal speed.  Able to outrace cars and trains, Ben knows he must use his powers for good even if he's not always clear on how.  Steadfast if a little inexperienced, he views his powers as a great gift and plans to make the best use of them that he can.
 
-![Double-Time](../images/Double-Time.jpg)
+![Double-Time](/images/Double-Time.jpg)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
@@ -85,7 +85,7 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - Officer Smitty
 
 ### Birthplace
-[New_York_City](../locations/New_York_City.md)
+[New_York_City](/locations/New_York_City.md)
 
 ### Enemies
 - Martians
@@ -108,15 +108,15 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - the Knight of Crows
 
 ### Home
-[New York City](../locations/New_York_City.md)
+[New York City](/locations/New_York_City.md)
 
 ### Property
 
 ### Memberships
-[Vanguard](../organizations/Vanguard.md)
+[Vanguard](/organizations/Vanguard.md)
 
 ### Relations
-- [Reginald Reeds](../npcs/Reginald_Reeds.md) (foster father)
+- [Reginald Reeds](/npcs/Reginald_Reeds.md) (foster father)
 
 ### Rivals
 - Charles 'Speedy' Siegal
