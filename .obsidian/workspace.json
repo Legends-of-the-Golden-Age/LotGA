@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81f5a3208c07ea9e",
+            "id": "d79f006ecd1c7a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/New_York_City.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/New_York_City.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/New_York_City.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/New_York_City.md"
+                "file": "_sidebar.md"
               }
             }
           }
@@ -148,8 +148,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81f5a3208c07ea9e",
+  "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
+    "player_characters/Double_Time.md",
+    "npcs/Reginald_Reeds.md",
+    "pdf/Reginald_Reeds.pdf",
+    "pdf/Double-Time.pdf",
+    "images/Double-Time.jpg",
+    "locations/New_York_City.md",
     "player_characters/Diamondback.md",
     "templates/story_arc.md",
     "templates/session-log.md",
@@ -162,7 +168,6 @@
     "npcs/Dominic_Antonova.md",
     "templates/headlines.md",
     "locations/Staten_Island.md",
-    "locations/New_York_City.md",
     "_sidebar.md",
     "player_characters/Amon-Ra.md",
     "organizations/Vanguard.md",
@@ -183,9 +188,6 @@
     "items",
     "headlines",
     "npcs",
-    "organizations",
-    "templates",
-    "images/AmonRa.jpg",
-    "Untitled.md"
+    "images/AmonRa.jpg"
   ]
 }

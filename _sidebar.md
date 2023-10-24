@@ -1,6 +1,7 @@
 - [Home](/)
 - Player Characters
 	- [Amon-Ra](/player_characters/Amon-Ra.md)
-	- [Diamondback](player_characters/Diamondback.md)
+	- [Diamondback](/player_characters/Diamondback.md)
+	- [Double Time](player_characters/Double_Time.md)
 - Organizations
 	- [Vanguard](/organizations/Vanguard.md)
