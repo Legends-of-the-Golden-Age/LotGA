@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/story_arc.md",
+                "file": "locations/New_York_City.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/story_arc.md",
+                "file": "locations/New_York_City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/story_arc.md",
+                "file": "locations/New_York_City.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/story_arc.md"
+                "file": "locations/New_York_City.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "81f5a3208c07ea9e",
   "lastOpenFiles": [
-    "templates/session-log.md",
+    "player_characters/Diamondback.md",
     "templates/story_arc.md",
+    "templates/session-log.md",
     "templates/player-character.md",
     "templates/organization.md",
     "templates/NPC.md",
@@ -163,7 +164,6 @@
     "locations/Staten_Island.md",
     "locations/New_York_City.md",
     "_sidebar.md",
-    "player_characters/Diamondback.md",
     "player_characters/Amon-Ra.md",
     "organizations/Vanguard.md",
     "organizations/Antonova_Corporation.md",

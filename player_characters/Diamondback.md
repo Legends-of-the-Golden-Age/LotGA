@@ -59,6 +59,7 @@ In early 1938, the Antonovas hosted a charity gala to auction off a number of pr
 
 ## Powers
 Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Durability*, Inhuman Leaps*, Earthquake Stomp*, Wrap in Object*, Thunder Clap*, Team Radio*
+
 <sub><sup> * Known to the general public</sup></sub>
 
 ## Notes
