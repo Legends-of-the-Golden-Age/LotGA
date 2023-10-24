@@ -37,18 +37,18 @@ Notes: |
 ### Enemies
 
 ### Home
-[Antonova Estate](locations/Antonova_Estate.md)
+[Antonova Estate](/locations/Antonova_Estate.md)
 
 ### Property
-[Antonova Estate](locations/Antonova_Estate.md)
+[Antonova Estate](/locations/Antonova_Estate.md)
 
 ### Memberships
 
 ### Relations
-- [Dominic_Antonova](npcs/Dominic_Antonova.md) (husband)
-- [Diamondback](player_characters/Diamondback.md) (daughter)
+- [Dominic_Antonova](/npcs/Dominic_Antonova.md) (husband)
+- [Diamondback](/player_characters/Diamondback.md) (daughter)
 - Shard (daughter)
-- [Victor Antonova](npcs/Victor_Antonova.md) (son)
+- [Victor Antonova](/npcs/Victor_Antonova.md) (son)
 
 ### Rivals
 

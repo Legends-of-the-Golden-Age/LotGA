@@ -10,7 +10,7 @@ description
 ## Residents
 
 
-## Apperances
+## Appearances
 
 
 ## Visited By

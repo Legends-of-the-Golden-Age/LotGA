@@ -33,22 +33,22 @@ Notes: |
 ### Associates
 
 ### Birthplace
-[New York City](locations/New_York_City.md)
+[New York City](/locations/New_York_City.md)
 
 ### Enemies
 
 ### Home
-[Antonova Estate](locations/Antonova_Estate.md)
+[Antonova Estate](/locations/Antonova_Estate.md)
 
 ### Property
 
 ### Memberships
-[Antonova Corporation](organizations/Antonova_Corporation.md)
+[Antonova Corporation](/organizations/Antonova_Corporation.md)
 
 ### Relations
-- [Dominic_Antonova](npcs/Dominic_Antonova.md) (father)
-- [Lydia_Antonova](npcs/Lydia_Antonova.md) (mother)
-- [Diamondback](player_characters/Diamondback.md) (sister)
+- [Dominic_Antonova](/npcs/Dominic_Antonova.md) (father)
+- [Lydia_Antonova](/npcs/Lydia_Antonova.md) (mother)
+- [Diamondback](/player_characters/Diamondback.md) (sister)
 - Shard (sister)
 
 ### Rivals

@@ -37,6 +37,10 @@
     {
       "folder": "locations",
       "template": "templates/location.md"
+    },
+    {
+      "folder": "story_arcs",
+      "template": "templates/story_arc.md"
     }
   ],
   "syntax_highlighting": true,
