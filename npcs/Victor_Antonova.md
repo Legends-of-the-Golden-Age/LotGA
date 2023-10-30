@@ -33,12 +33,12 @@ Notes: |
 ### Associates
 
 ### Birthplace
-[New York City](/locations/New_York_City.md)
+[New York City](../locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Enemies
 
 ### Home
-[Antonova Estate](/locations/Antonova_Estate.md)
+[Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 
 ### Property
 

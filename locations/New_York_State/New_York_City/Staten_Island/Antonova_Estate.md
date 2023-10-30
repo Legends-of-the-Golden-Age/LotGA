@@ -14,7 +14,7 @@ description
 - [Victor Antonova](/npcs/Victor_Antonova.md)
 
 ## Located In
-[Staten Island](/locations/Staten_Island.md)
+[Staten Island](New_York_State/New_York_City/Staten_Island/Staten_Island.md)
 
 ## Appearances
 

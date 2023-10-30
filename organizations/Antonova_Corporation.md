@@ -18,6 +18,6 @@ description
 
 
 ## Headquarters
-- [New York City](/locations/New_York_City.md)
+- [New York City](../locations/New_York_State/New_York_City/New_York_City.md)
 
 ## Other

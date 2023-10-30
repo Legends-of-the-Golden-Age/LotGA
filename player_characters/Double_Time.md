@@ -85,7 +85,7 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - Officer Smitty
 
 ### Birthplace
-[New_York_City](/locations/New_York_City.md)
+[New_York_City](../locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Enemies
 - Martians
@@ -108,7 +108,7 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - the Knight of Crows
 
 ### Home
-[New York City](/locations/New_York_City.md)
+[New York City](../locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Property
 

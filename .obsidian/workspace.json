@@ -4,23 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "661ae177a217dd07",
-        "type": "tabs",
+        "id": "92c0c6914a930d29",
+        "type": "split",
         "children": [
           {
-            "id": "d79f006ecd1c7a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npcs/Reginald_Reeds.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+            "id": "661ae177a217dd07",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d79f006ecd1c7a11",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "player_characters/Faceless.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "e6d084c7bb08d6bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e0de1ea056177f54",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "npcs/Lawrence Alexander Williams.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npcs/Reginald_Reeds.md",
+                "file": "player_characters/Faceless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npcs/Reginald_Reeds.md",
+                "file": "player_characters/Faceless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npcs/Reginald_Reeds.md"
+                "file": "player_characters/Faceless.md"
               }
             }
           }
@@ -145,18 +171,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
+    "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
+    "npcs/Lawrence Alexander Williams.md",
+    "organizations/Government/FBI.md",
+    "player_characters/Faceless.md",
+    "locations/New_York_State/New_York_City/Staten_Island",
+    "locations/New_York_State/New_York_City/The_Bronx",
+    "locations/New_York_State/New_York_City",
+    "locations/New_York_State",
+    "organizations/Government",
+    "organizations/Untitled.md",
+    "pdf/Faceless.pdf",
+    "images/Faceless.jpg",
     "player_characters/Double_Time.md",
-    "_sidebar.md",
     "npcs/Reginald_Reeds.md",
+    "_sidebar.md",
     "pdf/Reginald_Reeds.pdf",
     "pdf/Double-Time.pdf",
     "images/Double-Time.jpg",
-    "locations/New_York_City.md",
+    "locations/New_York_State/New_York_City/New_York_City.md",
     "player_characters/Diamondback.md",
     "templates/story_arc.md",
     "templates/session-log.md",
@@ -165,29 +204,19 @@
     "templates/NPC.md",
     "templates/location.md",
     "templates/item.md",
-    "locations/Antonova_Estate.md",
+    "locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md",
     "npcs/Dominic_Antonova.md",
     "templates/headlines.md",
-    "locations/Staten_Island.md",
+    "locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md",
     "player_characters/Amon-Ra.md",
     "organizations/Vanguard.md",
     "organizations/Antonova_Corporation.md",
     "npcs/Victor_Antonova.md",
     "npcs/Marie_Delaunay.md",
-    "npcs/Lydia_Antonova.md",
-    "items/Atlantean_Crystal.md",
-    "items/Arizona_Crystal.md",
     "images/glowing_diamond.jpg",
     "images/glowing_diamond.jpg.crdownload",
     "locations",
-    "pdf/Diamondback.pdf",
     "images/Diamondback.png",
-    "_footer.md",
-    "story_arcs",
-    "sessions",
-    "items",
-    "headlines",
-    "npcs",
     "images/AmonRa.jpg"
   ]
 }

@@ -15,7 +15,7 @@ description
 - Shard
 
 ## Sub-Locations
-- [Antonova Estate](/locations/Antonova_Estate.md)
+- [Antonova Estate](Antonova_Estate.md)
 
 ## Appearances
 

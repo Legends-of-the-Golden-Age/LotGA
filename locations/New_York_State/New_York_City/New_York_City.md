@@ -15,7 +15,7 @@ description
 - [Amon-Ra](/player_characters/Amon-Ra.md)
 
 ## Sub-Locations
-- [Antonova Estate](/locations/Antonova_Estate.md)
+- [Antonova Estate](Staten_Island/Antonova_Estate.md)
 
 ## Appearances
 
