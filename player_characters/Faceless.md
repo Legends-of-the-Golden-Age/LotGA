@@ -58,48 +58,48 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 ## Notes
 
 ### Allies
-Defenders of Justice
-Det. Beaumont
-Dr. Leanne Brzezicki
-[FBI](/organizations/Government/FBI.md)
-Guardians of Freedom
-Knights of Albion
-Liberty Squad
-Officer Layne
-the God of Storms
+- Defenders of Justice
+- Det. Beaumont
+- Dr. Leanne Brzezicki
+- [FBI](/organizations/Government/FBI.md)
+- Guardians of Freedom
+- Knights of Albion
+- Liberty Squad
+- Officer Layne
+- the God of Storms
 
 ### Associates
-Burt 'Barnstormer' Barlow
-Chester Dupe
-Click-Click-Hoot
-Cpt Brian Loganach
-Lucy LaMonte
-Mark Dupe
-Officer Fritz
-Officer Smitty
+- Burt 'Barnstormer' Barlow
+- Chester Dupe
+- Click-Click-Hoot
+- Cpt Brian Loganach
+- Lucy LaMonte
+- Mark Dupe
+- Officer Fritz
+- Officer Smitty
 
 ### Birthplace
 [The Bronx](/locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md) (officially)
 
 ### Enemies
-Atlanteans
-Black Fin
-Colletti Mob
-Der Rind
-Die Hexe
-Doc Macabre
-Dr. Johannas Wagner
-Fire Hawk
-Martians
-Steel Shark
-the Axis Legion
-the Cult of the Naga
-the Elemental Androids
-the Fascist Society of America
-the Knight of Crows
-the Serpent King
-the SuperMercs
-Valusi
+- Atlanteans
+- Black Fin
+- Colletti Mob
+- Der Rind
+- Die Hexe
+- Doc Macabre
+- Dr. Johannas Wagner
+- Fire Hawk
+- Martians
+- Steel Shark
+- the Axis Legion
+- the Cult of the Naga
+- the Elemental Androids
+- the Fascist Society of America
+- the Knight of Crows
+- the Serpent King
+- the SuperMercs
+- Valusi
 
 ### Home
 [New York City](/locations/New_York_State/New_York_City/New_York_City.md)
@@ -107,8 +107,8 @@ Valusi
 ### Property
 
 ### Memberships
-[Vanguard](/organizations/Vanguard.md)
-[FBI](/organizations/Government/FBI.md)
+- [Vanguard](/organizations/Vanguard.md)
+- [FBI](/organizations/Government/FBI.md)
 
 ### Relations
 Special Agent [Lawrence Alexander Williams](/npcs/Lawrence%20Alexander%20Williams.md) (adoptive father)

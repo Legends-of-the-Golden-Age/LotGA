@@ -34,8 +34,8 @@ Notes: |
 ## Notes
 
 ### Allies
-[Faceless](/player_characters/Faceless.md)
-Zoltan
+- [Faceless](/player_characters/Faceless.md)
+- Zoltan
 
 ### Associates
 

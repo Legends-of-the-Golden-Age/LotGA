@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "player_characters/Faceless.md",
+                    "file": "npcs/Lawrence Alexander Williams.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_characters/Faceless.md",
+                "file": "npcs/Lawrence Alexander Williams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_characters/Faceless.md",
+                "file": "npcs/Lawrence Alexander Williams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "player_characters/Faceless.md"
+                "file": "npcs/Lawrence Alexander Williams.md"
               }
             }
           }
@@ -178,9 +178,9 @@
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
     "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
+    "player_characters/Faceless.md",
     "npcs/Lawrence Alexander Williams.md",
     "organizations/Government/FBI.md",
-    "player_characters/Faceless.md",
     "locations/New_York_State/New_York_City/Staten_Island",
     "locations/New_York_State/New_York_City/The_Bronx",
     "locations/New_York_State/New_York_City",
