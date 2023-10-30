@@ -14,7 +14,7 @@ brief description
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](Lawrence%20Alexander%20Williams.md#Associates)
+- [Associates](../npcs/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)

@@ -6,7 +6,7 @@ created-by:
 
 Raised in the lap of luxury, Alessandra Antonova was not satisfied simply living off the money her family earned in mining and industry.  Instead, she focused herself on raising money to help others.  An accident involving a unique crystal found in one her family's mines caused her to gain incredible strength and durability.  For her, it was a natural transition to use her new-found powers to protect the innocent and down-trodden just as she uses her wealth to help the needy and less-fortunate.  She only wishes her sister, Lilah, was more willing to see how much good their powers can do for the world.
 
-![Diamondback](../images/Diamondback.png)
+![Diamondback](/images/Diamondback.png)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
@@ -15,7 +15,7 @@ Raised in the lap of luxury, Alessandra Antonova was not satisfied simply living
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](Lawrence%20Alexander%20Williams.md#Associates)
+- [Associates](/npcs/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -49,7 +49,7 @@ Charming, outgoing, and socially graceful, Alessandra is everyone's sweetheart. 
 ## Origin
 
 **The Antonova Family**
-[Dominic_Antonova](/npcs/Dominic_Antonova.md) is the heir to [Antonova Industrial](/organizations/Antonova_Corporation.md), a [New York](../locations/New_York_State/New_York_City/New_York_City.md) company built by his father to supply metals and minerals for industrial purposes. He married [Lydia Williamson](/npcs/Lydia_Antonova.md), the daughter of a respected jeweler, in 1912 and they had their first daughter, Lilly, in 1913. Soon after that, news of war in Europe started to draw the nation's attention. Hopeful that the United States would remain neutral and stay out of the war, Dominic and Lydia continued to build their business and Alessandra joined the family in 1915. Dominic was drafted for the war in 1917 and left Lydia w/ their two young daughters, but returned safely in 1919. The third Antonova child, [Victor](/npcs/Victor_Antonova.md), was born in 1923. After his father's death in 1930, Dominic inherited full ctrl of Antonova Industrial. The Antonovas combined their families' lines of business and Antonova Industrial became the Antonova Corporation, a supplier of both industrial metals and materials as well as precious stones for jewelers. Now, the Antonovas are wealthy and respected members of society who use their company to engage in philanthropy and pioneer new uses for minerals and metals.
+[Dominic_Antonova](/npcs/Dominic_Antonova.md) is the heir to [Antonova Industrial](/organizations/Antonova_Corporation.md), a [New York](/locations/New_York_State/New_York_City/New_York_City.md) company built by his father to supply metals and minerals for industrial purposes. He married [Lydia Williamson](/npcs/Lydia_Antonova.md), the daughter of a respected jeweler, in 1912 and they had their first daughter, Lilly, in 1913. Soon after that, news of war in Europe started to draw the nation's attention. Hopeful that the United States would remain neutral and stay out of the war, Dominic and Lydia continued to build their business and Alessandra joined the family in 1915. Dominic was drafted for the war in 1917 and left Lydia w/ their two young daughters, but returned safely in 1919. The third Antonova child, [Victor](/npcs/Victor_Antonova.md), was born in 1923. After his father's death in 1930, Dominic inherited full ctrl of Antonova Industrial. The Antonovas combined their families' lines of business and Antonova Industrial became the Antonova Corporation, a supplier of both industrial metals and materials as well as precious stones for jewelers. Now, the Antonovas are wealthy and respected members of society who use their company to engage in philanthropy and pioneer new uses for minerals and metals.
 
 **The Arizona Crystal**
 In 1937, a large and mysterious crystal was discovered in an Antonova Corporation copper mine in Arizona. The crystal is similar to a white diamond in appearance, but had a different structure that didn't match any other known material. Antonova Corporation scientists were also puzzled by the fact that the crystal came out of the earth looking professionally cut. The crystal also seemed to have an odd "glow" to it in the light rather than the typical sparkle of a diamond. The [Arizona Crystal](/items/Arizona_Crystal.md) was ultimately determined not to be useful for any practical purpose, but given its beauty and uniqueness, the Antonovas decided to auction it off for charity.
@@ -89,10 +89,10 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 - [Leo Lawrence]
 - [Lucy LaMonte]
 - [Mark Dupe]
-- [Special Agent Lawrence Alexander Williams]
+- Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Birthplace
-[New York, NY](../locations/New_York_State/New_York_City/New_York_City.md)
+[New York, NY](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Enemies
 - [Martians]
@@ -118,11 +118,11 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 - Valusi
 
 ### Home
-[Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
+[Antonova Estate](/locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 
 ### Property
 - Several [Antonova Corporation](/organizations/Antonova_Corporation.md) holdings.
-- [Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
+- [Antonova Estate](/locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 - Vanguard Base
 
 ### Memberships
@@ -140,7 +140,7 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 - Howard 'Hercules' Humphrey (oddly flirtatious)
 
 ### Visited
-- [Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
+- [Antonova Estate](/locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 - Grover's Mill, NJ
 - New Brunswick, NJ
 - FBI Headquarters, NY

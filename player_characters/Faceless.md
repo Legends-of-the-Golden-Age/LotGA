@@ -111,7 +111,7 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 - [FBI](/organizations/Government/FBI.md)
 
 ### Relations
-Special Agent [Lawrence Alexander Williams](/npcs/Lawrence%20Alexander%20Williams.md) (adoptive father)
+Special Agent [Lawrence_Alexander_Williams](/npcs/Lawrence_Alexander_Williams.md) (adoptive father)
 
 ### Rivals
 

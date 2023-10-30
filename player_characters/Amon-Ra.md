@@ -15,7 +15,7 @@ An archaeologist who discovered several magical relics in the area that was once
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](Lawrence%20Alexander%20Williams.md#Associates)
+- [Associates](/npcs/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -89,7 +89,7 @@ Over the next two years Franklin learned the science of magic as was led to seve
 - [Officer Fitz] 
 - [Officer Layne] 
 - [Officer Smitty]
-- [Special Agent Lawrence Alexander Williams] 
+- Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Birthplace
 [New York City]

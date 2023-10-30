@@ -3,5 +3,10 @@
 	- [Amon-Ra](/player_characters/Amon-Ra.md)
 	- [Diamondback](/player_characters/Diamondback.md)
 	- [Double Time](player_characters/Double_Time.md)
+	- [Faceless](player_characters/Faceless.md)
+- Locations
+- Non-Player Characters
+	- Allies
+	- Enemies
 - Organizations
 	- [Vanguard](/organizations/Vanguard.md)

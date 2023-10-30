@@ -15,7 +15,7 @@ As a young lab assistant, Ben, was caught in a lab accident during a strange exp
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](Lawrence%20Alexander%20Williams.md#Associates)
+- [Associates](/npcs/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -83,9 +83,10 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - Mark Dupe
 - Officer Fitz
 - Officer Smitty
+- Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Birthplace
-[New_York_City](../locations/New_York_State/New_York_City/New_York_City.md)
+[New_York_City](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Enemies
 - Martians
@@ -108,7 +109,7 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - the Knight of Crows
 
 ### Home
-[New York City](../locations/New_York_State/New_York_City/New_York_City.md)
+[New York City](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Property
 

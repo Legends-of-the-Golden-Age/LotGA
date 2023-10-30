@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "npcs/Lawrence Alexander Williams.md",
+                    "file": "player_characters/Faceless.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "npcs/Lawrence Alexander Williams.md",
+                    "file": "npcs/Lawrence_Alexander_Williams.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": true
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npcs/Lawrence Alexander Williams.md",
+                "file": "player_characters/Faceless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npcs/Lawrence Alexander Williams.md",
+                "file": "player_characters/Faceless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npcs/Lawrence Alexander Williams.md"
+                "file": "player_characters/Faceless.md"
               }
             }
           }
@@ -177,9 +177,13 @@
   },
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
+    "player_characters/Double_Time.md",
+    "player_characters/Diamondback.md",
+    "player_characters/Amon-Ra.md",
+    "_sidebar.md",
+    "npcs/Lawrence_Alexander_Williams.md",
     "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
     "player_characters/Faceless.md",
-    "npcs/Lawrence Alexander Williams.md",
     "organizations/Government/FBI.md",
     "locations/New_York_State/New_York_City/Staten_Island",
     "locations/New_York_State/New_York_City/The_Bronx",
@@ -189,14 +193,11 @@
     "organizations/Untitled.md",
     "pdf/Faceless.pdf",
     "images/Faceless.jpg",
-    "player_characters/Double_Time.md",
     "npcs/Reginald_Reeds.md",
-    "_sidebar.md",
     "pdf/Reginald_Reeds.pdf",
     "pdf/Double-Time.pdf",
     "images/Double-Time.jpg",
     "locations/New_York_State/New_York_City/New_York_City.md",
-    "player_characters/Diamondback.md",
     "templates/story_arc.md",
     "templates/session-log.md",
     "templates/player-character.md",
@@ -208,7 +209,6 @@
     "npcs/Dominic_Antonova.md",
     "templates/headlines.md",
     "locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md",
-    "player_characters/Amon-Ra.md",
     "organizations/Vanguard.md",
     "organizations/Antonova_Corporation.md",
     "npcs/Victor_Antonova.md",
