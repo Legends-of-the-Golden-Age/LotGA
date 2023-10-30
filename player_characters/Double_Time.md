@@ -6,7 +6,7 @@ created-by:
 
 As a young lab assistant, Ben, was caught in a lab accident during a strange experiment.  Afterward, he found himself possessed of phenomenal speed.  Able to outrace cars and trains, Ben knows he must use his powers for good even if he's not always clear on how.  Steadfast if a little inexperienced, he views his powers as a great gift and plans to make the best use of them that he can.
 
-![Double-Time](/images/Double-Time.jpg)
+![Double-Time](../images/Double-Time.jpg)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
@@ -68,7 +68,7 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - [Amon-Ra](Amon-Ra.md)
 - [Diamondback](Diamondback.md)
 - [Faceless](Faceless.md)
-- [Dr. Reginald Reeds](../npcs/Reginald_Reeds.md)
+- [Dr. Reginald Reeds](/npcs/Reginald_Reeds.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow

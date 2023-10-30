@@ -6,7 +6,7 @@ created-by:
 
 Michael was an orphan raised by a government agent.  When he was old enough, he chose to work for the FBI.  Not long after starting his career, he discovered that he had the ability to change his shape to match anyone he sees.  A solid patriot, Michael has dedicated himself to using his powers to root the out enemies of the U.S. 
 
-![Faceless](/images/Faceless.jpg)
+![Faceless](../images/Faceless.jpg)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
@@ -62,7 +62,7 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 - [Diamondback](Diamondback.md)
 - [Double-Time](Double_Time.md)
 - [FBI](/organizations/Government/FBI.md)
-- [Special Agent Lawrence Alexander Williams](../npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow

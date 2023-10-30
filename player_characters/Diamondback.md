@@ -6,7 +6,7 @@ created-by:
 
 Raised in the lap of luxury, Alessandra Antonova was not satisfied simply living off the money her family earned in mining and industry.  Instead, she focused herself on raising money to help others.  An accident involving a unique crystal found in one her family's mines caused her to gain incredible strength and durability.  For her, it was a natural transition to use her new-found powers to protect the innocent and down-trodden just as she uses her wealth to help the needy and less-fortunate.  She only wishes her sister, Lilah, was more willing to see how much good their powers can do for the world.
 
-![Diamondback](/images/Diamondback.png)
+![Diamondback](../images/Diamondback.png)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
