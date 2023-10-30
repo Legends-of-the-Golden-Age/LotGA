@@ -65,25 +65,28 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 ## Notes
 
 ### Allies
-- Det. Beaumont
-- Dr. Leanne Brzezicki
-- [Dr. Reginald Reeds](/npcs/Reginald_Reeds.md) (employer & foster father)
-- Federal Bureau of Investigation
-- Guardians of Freedom
-- Knights of Albion
-- Officer Layne
-- the God of Storms
+- [Amon-Ra](Amon-Ra.md)
+- [Diamondback](Diamondback.md)
+- [Faceless](Faceless.md)
+- [Dr. Reginald Reeds](../npcs/Reginald_Reeds.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow
 - Chester Dupe
 - Click-Click-Hoot
 - Cpt. Brian Laganach
+- Det. Beaumont
+- Dr. Leanne Brzezicki
+- Federal Bureau of Investigation
+- Guardians of Freedom
+- Knights of Albion
 - Lucy LaMonte
 - Mark Dupe
 - Officer Fitz
+- Officer Layne
 - Officer Smitty
 - Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- the God of Storms
 
 ### Birthplace
 [New_York_City](/locations/New_York_State/New_York_City/New_York_City.md)

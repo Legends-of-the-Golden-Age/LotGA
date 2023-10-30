@@ -65,31 +65,32 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 ## Notes
 
 ### Allies
+- [Amon-Ra](Amon-Ra.md)
+- [Double-Time](Double_Time.md)
+- [Faceless](Faceless.md)
+
+### Associates
 - [Arthur Howell]
+- [Burt 'Barnstormer' Barlow]
+- [Cester Dupe]
+- [Click-Click-Hoot]
 - [Cpt. Brian Loganach]
 - [Defenders of Justice]
 - [Det. Beaumont]
-- [Dr. Leanne Brzezicki]
-- [Edgar Bennett]
 - [Federal Bureau of Investigation]
 - [Guardians of Freedom]
 - [Joshaua]
 - [Knights of Albion]
+- [Leo Lawrence]
 - [Liberty Squad]
 - [Louis Best]
 - [Lt. Liberty]
-- [Officer Layne]
-- [Royal Canadian Mounted Police]
-- the [God of Storms]
-
-### Associates
-- [Burt 'Barnstormer' Barlow]
-- [Cester Dupe]
-- [Click-Click-Hoot]
-- [Leo Lawrence]
 - [Lucy LaMonte]
 - [Mark Dupe]
+- [Officer Layne]
+- [Royal Canadian Mounted Police]
 - Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- the [God of Storms]
 
 ### Birthplace
 [New York, NY](/locations/New_York_State/New_York_City/New_York_City.md)

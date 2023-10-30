@@ -58,25 +58,29 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 ## Notes
 
 ### Allies
-- Defenders of Justice
-- Det. Beaumont
-- Dr. Leanne Brzezicki
+- [Amon-Ra](Amon-Ra.md)
+- [Diamondback](Diamondback.md)
+- [Double-Time](Double_Time.md)
 - [FBI](/organizations/Government/FBI.md)
-- Guardians of Freedom
-- Knights of Albion
-- Liberty Squad
-- Officer Layne
-- the God of Storms
+- [Special Agent Lawrence Alexander Williams](../npcs/Lawrence_Alexander_Williams.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow
 - Chester Dupe
 - Click-Click-Hoot
 - Cpt Brian Loganach
+- Defenders of Justice
+- Det. Beaumont
+- Dr. Leanne Brzezicki
+- Guardians of Freedom
+- Knights of Albion
+- Liberty Squad
 - Lucy LaMonte
 - Mark Dupe
 - Officer Fritz
+- Officer Layne
 - Officer Smitty
+- the God of Storms
 
 ### Birthplace
 [The Bronx](/locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md) (officially)

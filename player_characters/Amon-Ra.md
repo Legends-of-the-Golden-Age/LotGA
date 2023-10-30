@@ -6,7 +6,7 @@ created-by:
 # Amon-Ra
 An archaeologist who discovered several magical relics in the area that was once the border of ancient Mesopotamia and Egypt.  The helmet proved to be a conduit to a higher being who taught Franklin to use the various artifacts he found and how to use true magic.  In return, he must combat the forces of chaos and evil, especially those of a mystic nature.
 
-![Amon-Ra](../images/AmonRa.jpg)
+![Amon-Ra](/images/AmonRa.jpg)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
@@ -73,9 +73,10 @@ Over the next two years Franklin learned the science of magic as was led to seve
 ## Notes
 
 ### Allies
-- [Federal Bureau of Investigation]
+- [Diamondback](Diamondback.md)
+- [Double-Time](Double_Time.md)
+- [Faceless](Faceless.md)
 - [The God of Wisdom]
-- [Guardians of Freedom]
 
 ### Associates
 - [Brian Loganach] 
@@ -83,13 +84,14 @@ Over the next two years Franklin learned the science of magic as was led to seve
 - [Chester Dupé] 
 - [Click-Click-Hoot]
 - [Det. Beaumont] 
-- [Diamondback](player_characters/Diamondback.md)
+- [Federal Bureau of Investigation]
+- [Guardians of Freedom]
 - [Lucy LaMonte] 
 - [Mark Dupé] 
 - [Officer Fitz] 
 - [Officer Layne] 
 - [Officer Smitty]
-- Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Birthplace
 [New York City]
