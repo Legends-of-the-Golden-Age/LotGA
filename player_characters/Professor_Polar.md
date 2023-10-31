@@ -73,10 +73,10 @@ Grapple Gun\*, Freeze Water\*, Fire Suppression\*, Cone of Cold (Focused Aura)\*
 - Has one of Doc Macabre's journals.
 
 ### Allies
-- [Amon-Ra](Amon-Ra.md)
-- [Diamondback](Diamondback.md)
-- [Double_Time](Double_Time.md)
-- [Faceless](Faceless.md)
+- [Amon-Ra](player_characters/Amon-Ra.md)
+- [Diamondback](player_characters/Diamondback.md)
+- [Double Time!](player_characters/Double_Time.md)
+- [Faceless](player_characters/Faceless.md)
 - Shard
 - Zoltan the Magnificent
 

@@ -65,9 +65,10 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 ## Notes
 
 ### Allies
-- [Amon-Ra](Amon-Ra.md)
-- [Double-Time](Double_Time.md)
-- [Faceless](Faceless.md)
+- [Amon-Ra](player_characters/Amon-Ra.md)
+- [Double-Time](player_characters/Double_Time.md)
+- [Faceless](player_characters/Faceless.md)
+- [Professor Polar](player_characters/Professor_Polar.md)
 
 ### Associates
 - [Arthur Howell]

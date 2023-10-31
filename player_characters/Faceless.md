@@ -62,6 +62,7 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 - [Diamondback](Diamondback.md)
 - [Double-Time](Double_Time.md)
 - [FBI](/organizations/Government/FBI.md)
+- [Professor Polar](player_characters/Professor_Polar.md)
 - [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Associates

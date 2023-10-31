@@ -73,10 +73,11 @@ Over the next two years Franklin learned the science of magic as was led to seve
 ## Notes
 
 ### Allies
-- [Diamondback](Diamondback.md)
-- [Double-Time](Double_Time.md)
-- [Faceless](Faceless.md)
-- [The God of Wisdom]
+- [Diamondback](player_characters/Diamondback.md)
+- [Double-Time](player_characters/Double_Time.md)
+- [Faceless](player_characters/Faceless.md)
+- [Professor_Polar](player_characters/Professor_Polar.md)
+- The God of Wisdom
 
 ### Associates
 - [Brian Loganach] 

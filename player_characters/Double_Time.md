@@ -67,8 +67,9 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 ### Allies
 - [Amon-Ra](Amon-Ra.md)
 - [Diamondback](Diamondback.md)
-- [Faceless](Faceless.md)
 - [Dr. Reginald Reeds](/npcs/Reginald_Reeds.md)
+- [Faceless](Faceless.md)
+- [Professor Polar](player_characters/Professor_Polar.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow
