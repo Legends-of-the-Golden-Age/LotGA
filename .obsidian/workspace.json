@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "player_characters/Professor_Polar.md",
+                "file": "organizations/Vanguard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_characters/Professor_Polar.md",
+                "file": "organizations/Vanguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_characters/Professor_Polar.md",
+                "file": "organizations/Vanguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "player_characters/Professor_Polar.md"
+                "file": "organizations/Vanguard.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   },
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
+    "player_characters/Professor_Polar.md",
     "player_characters/Faceless.md",
     "player_characters/Double_Time.md",
     "player_characters/Diamondback.md",
     "player_characters/Amon-Ra.md",
-    "player_characters/Professor_Polar.md",
     "_sidebar.md",
     "organizations/New_York_University.md",
     "locations/New_York_State/New_York_City/Manhattan/Manhattan.md",
