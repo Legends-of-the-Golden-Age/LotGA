@@ -4,6 +4,7 @@
 	- [Diamondback](/player_characters/Diamondback.md)
 	- [Double Time](player_characters/Double_Time.md)
 	- [Faceless](player_characters/Faceless.md)
+	- [Professor_Polar](player_characters/Professor_Polar.md)
 - Locations
 - Non-Player Characters
 	- Allies

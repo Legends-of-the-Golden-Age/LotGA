@@ -124,8 +124,8 @@ An abandoned church in [Queens, NY].
 - an [Abandoned Church]
 
 ### Memberships
+- [New York University](../organizations/New_York_University.md) (professor)
 - [Vanguard](/organizations/Vanguard.md)
-- [New York University] (employee)
 
 ### Relations
 - [Marie Delaunay](/npcs/Marie_Delaunay.md) (wife, deceased)

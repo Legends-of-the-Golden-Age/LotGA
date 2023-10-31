@@ -21,6 +21,7 @@ Height: | 5' 10"
 Weight: | 180lbs
 Gender: | male
 Notes: |
+
 ![picture](https://www.fbi.gov/image-repository/kc_election_crimes_milligan-hi-res.jpg/@@images/image/large)
 
 ## Background / Origin
