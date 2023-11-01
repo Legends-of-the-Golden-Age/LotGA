@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Tarraingteacht.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Tarraingteacht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Tarraingteacht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "npcs/Tarraingteacht.md"
               }
             }
           }
@@ -149,19 +149,19 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d79f006ecd1c7a11",
+  "active": "70811577ab13516e",
   "lastOpenFiles": [
+    "_sidebar.md",
     "npcs/Mansel_Muddlescrombe.md",
     "images/Sir_Mansel.jpg",
-    "_sidebar.md",
     "npcs/Tarraingteacht.md",
     "player_characters/Shard.md",
     "player_characters/Professor_Polar.md",
     "player_characters/Double_Time.md",
     "player_characters/Diamondback.md",
     "player_characters/Amon-Ra.md",
-    "organizations/British Government/British_SOE.md",
-    "organizations/British Government",
+    "organizations/British_Government/British_SOE.md",
+    "organizations/British_Government",
     "pdf/Tarraingteacht.pdf",
     "pdf/Terraiingteacht.png",
     "images/Tarraingteacht.png",
@@ -181,7 +181,7 @@
     "images/Prof_Polar.jpg",
     "npcs/Lawrence_Alexander_Williams.md",
     "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
-    "organizations/U.S. Government/FBI.md",
+    "organizations/US_Government/FBI.md",
     "locations/New_York_State/New_York_City/Staten_Island",
     "locations/New_York_State/New_York_City/The_Bronx",
     "locations/New_York_State/New_York_City",

@@ -68,7 +68,7 @@ Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Mic
 - [Amon-Ra](Amon-Ra.md)
 - [Diamondback](Diamondback.md)
 - [Double-Time](Double_Time.md)
-- [FBI](organizations/U.S.%20Government/FBI.md)
+- [FBI](organizations/US_Government/FBI.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
 - [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
@@ -124,7 +124,7 @@ Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Mic
 
 ### Memberships
 - [Vanguard](/organizations/Vanguard.md)
-- [FBI](organizations/U.S.%20Government/FBI.md)
+- [FBI](organizations/US_Government/FBI.md)
 
 ### Relations
 Special Agent [Lawrence_Alexander_Williams](/npcs/Lawrence_Alexander_Williams.md) (adoptive father)

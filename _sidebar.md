@@ -13,6 +13,6 @@
 		- [Tarraingteacht](npcs/Tarraingteacht.md)
 	- Enemies
 - Organizations
-	- [British_SOE](organizations/British%20Government/British_SOE.md)
-	- [FBI](organizations/U.S.%20Government/FBI.md)
+	- [British_SOE](organizations/British_Government/British_SOE.md)
+	- [FBI](organizations/US_Government/FBI.md)
 	- [Vanguard](/organizations/Vanguard.md)
