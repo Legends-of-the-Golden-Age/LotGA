@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "player_characters/Shard.md",
-                "mode": "source",
+                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_characters/Shard.md",
+                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_characters/Shard.md",
+                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "player_characters/Shard.md"
+                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
+    "player_characters/Shard.md",
     "player_characters/Professor_Polar.md",
     "player_characters/Faceless.md",
     "player_characters/Double_Time.md",
@@ -162,7 +163,6 @@
     "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
     "pdf/Shard_Lab.pdf",
     "images/Shard_Lab.jpg",
-    "player_characters/Shard.md",
     "pdf/Shard.pdf",
     "images/Shard.png",
     "organizations/New_York_University.md",
