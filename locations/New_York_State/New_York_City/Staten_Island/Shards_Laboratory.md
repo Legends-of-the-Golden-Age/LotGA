@@ -17,4 +17,4 @@ Converted from the old [Antonova_Estate](locations/New_York_State/New_York_City/
 
 
 ## Other
-[Character Sheet](pdf/Shard_Lab.pdf)
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Shard_Lab.pdf)
