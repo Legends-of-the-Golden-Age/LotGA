@@ -5,7 +5,9 @@
 	- [Double Time](player_characters/Double_Time.md)
 	- [Faceless](player_characters/Faceless.md)
 	- [Professor_Polar](player_characters/Professor_Polar.md)
+	- [Shard](player_characters/Shard.md)
 - Locations
+	- [Shard's Laboratory](locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md)
 - Non-Player Characters
 	- Allies
 	- Enemies

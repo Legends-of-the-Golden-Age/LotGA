@@ -65,7 +65,19 @@ Sean is attached to his family, but is still only close with his mother and gran
 When working on his first cold engine, something went horribly wrong and the engine produced a surge of energy that flooded the room. When Sean woke up, all of the water in the room was frozen and his body had been changed dramatically. It took several days to learn to dampen his personal cold field. He then developed the focusing tools he uses now as Professor Polar. He still can not figure out what went wrong as all further engine prototypes have not shown any signs of surging, they just fail after a short time.
 
 ## Powers
-Grapple Gun\*, Freeze Water\*, Fire Suppression\*, Cone of Cold (Focused Aura)\*, Freezing Touch (Intense Touch)\*, Cold Gun (Cold Focuser)\*, Bone Chiller, Cold Grenade, Cold Reactive Coat (armor), Cold Aura, Bag-o-Gadgets, Sleep 1 hour / day
+- Bag-o-Gadgets
+- Bone Chiller
+- Cold Aura
+- Cold Grenade
+- Cold Gun (Cold Focuser)\*
+- Cold Reactive Coat (armor)
+- Cone of Cold (Focused Aura)\*
+- Fire Suppression\*
+- Freeze Water\*
+- Freezing Touch (Intense Touch)\*
+- Grapple Gun\*
+- Sleep 1 hour / day
+
 <sub><sup> * Known to the general public</sup></sub>
 
 ## Notes
@@ -77,7 +89,7 @@ Grapple Gun\*, Freeze Water\*, Fire Suppression\*, Cone of Cold (Focused Aura)\*
 - [Diamondback](player_characters/Diamondback.md)
 - [Double Time!](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
-- Shard
+- [Shard](player_characters/Shard.md)
 - Zoltan the Magnificent
 
 ### Associates
@@ -90,11 +102,27 @@ Grapple Gun\*, Freeze Water\*, Fire Suppression\*, Cone of Cold (Focused Aura)\*
 ### Birthplace
 
 ### Enemies
+- Atlanteans
+- Black Fin
+- Colletti Mob
+- Der Rind
+- Die Hexe
 - Doc Macabre
-- Sako Norogumi
+- Dr. Johannas Wagner
+- Fire Hawk
+- Martians
+- Nazis
+- Schattenkrieger
+- Steel Shark
 - the Axis Legion
+- the Cult of the Naga
 - the Elemental Androids
-- the Ghost
+- the Fascist Society of America
+- the Knight of Crows
+- the Serpent King
+- the SuperMercs
+- Tilingkoot
+- Valusi
 
 ### Home
 [New York City](/locations/New_York_State/New_York_City/New_York_City.md)
@@ -110,7 +138,8 @@ Grapple Gun\*, Freeze Water\*, Fire Suppression\*, Cone of Cold (Focused Aura)\*
 Grandmother, Mother, two older sisters, and one older brother
 
 ### Rivals
-- Doc Macabre
+- Sako Norogumi
+- the Ghost
 
 ### Visited
 

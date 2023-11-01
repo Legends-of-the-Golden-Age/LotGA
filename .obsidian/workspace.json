@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "player_characters/Shard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "player_characters/Shard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "player_characters/Shard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Vanguard.md"
+                "file": "player_characters/Shard.md"
               }
             }
           }
@@ -156,7 +156,15 @@
     "player_characters/Double_Time.md",
     "player_characters/Diamondback.md",
     "player_characters/Amon-Ra.md",
+    "organizations/Vanguard.md",
+    "images/AmonRa.jpg",
     "_sidebar.md",
+    "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
+    "pdf/Shard_Lab.pdf",
+    "images/Shard_Lab.jpg",
+    "player_characters/Shard.md",
+    "pdf/Shard.pdf",
+    "images/Shard.png",
     "organizations/New_York_University.md",
     "locations/New_York_State/New_York_City/Manhattan/Manhattan.md",
     "pdf/Amon-Ra.pdf",
@@ -171,10 +179,8 @@
     "locations/New_York_State/New_York_City",
     "locations/New_York_State",
     "organizations/Government",
-    "pdf/Faceless.pdf",
     "images/Faceless.jpg",
     "npcs/Reginald_Reeds.md",
-    "pdf/Reginald_Reeds.pdf",
     "images/Double-Time.jpg",
     "locations/New_York_State/New_York_City/New_York_City.md",
     "templates/story_arc.md",
@@ -186,11 +192,7 @@
     "templates/item.md",
     "locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md",
     "npcs/Dominic_Antonova.md",
-    "templates/headlines.md",
-    "locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md",
-    "organizations/Vanguard.md",
     "images/glowing_diamond.jpg",
-    "images/Diamondback.png",
-    "images/AmonRa.jpg"
+    "images/Diamondback.png"
   ]
 }

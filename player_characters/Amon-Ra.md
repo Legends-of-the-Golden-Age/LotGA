@@ -77,6 +77,7 @@ Over the next two years Franklin learned the science of magic as was led to seve
 - [Double-Time](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
 - [Professor_Polar](player_characters/Professor_Polar.md)
+- [Shard](player_characters/Shard.md)
 - The God of Wisdom
 
 ### Associates
@@ -98,24 +99,27 @@ Over the next two years Franklin learned the science of magic as was led to seve
 [New York City]
 
 ### Enemies
-- [Atlanteans]
-- [Black Fin]
-- [Colletti Mob]
-- [Der Rind]
-- [Die Hexe]
-- [Doc Macabre]
-- [Dr. Johannas Wagner]
-- [Fire Hawk]
-- [Martians]
-- [Steel Shark]
-- the [Axis Legion]
-- the [Cult of the Naga]
-- the [Elemental Androids]
-- the [Fascist Society of America]
-- the [Knight of Crows]
-- the [Serpent King]
-- the [SuperMercs]
-- [Valusi]
+- Atlanteans
+- Black Fin
+- Colletti Mob
+- Der Rind
+- Die Hexe
+- Doc Macabre
+- Dr. Johannas Wagner
+- Fire Hawk
+- Martians
+- Nazis
+- Schattenkrieger
+- Steel Shark
+- the Axis Legion
+- the Cult of the Naga
+- the Elemental Androids
+- the Fascist Society of America
+- the Knight of Crows
+- the Serpent King
+- the SuperMercs
+- Tilingkoot
+- Valusi
 
 ### Home
 An abandoned church in [Queens, NY].

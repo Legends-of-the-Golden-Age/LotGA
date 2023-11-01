@@ -7,6 +7,7 @@ The premier super team of [New York City](../locations/New_York_State/New_York_C
 - [Double Time](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
+- [Shard](player_characters/Shard.md)
 
 ## Adventures
 

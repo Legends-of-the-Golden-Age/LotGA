@@ -51,7 +51,14 @@ It wasn't long before Michael's shape-shifting abilities were discovered.  In or
 Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Michael joined the FBI as an novice agent. Michael spends a lot of his free time trying to figure out who his real parents are, wondering if they are like him or if that was the reason they gave him away. While on the job he is a true Patriot who loves his country and will do anything for it.
 
 ## Powers
-Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick Healing*, Weapon Arms*, Multi-Limbed Strikes*, Can Flow Through Cracks
+- Can Flow Through Cracks
+- Highly Damage Resistant*
+- Multi-Limbed Strikes*
+- Quick Healing*
+- Shape Shifting
+- 'Springy' Legs*
+- Stretching*
+- Weapon Arms*
 
 <sub><sup> * Known to the general public</sup></sub>
 
@@ -63,6 +70,7 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 - [Double-Time](Double_Time.md)
 - [FBI](/organizations/Government/FBI.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
+- [Shard](player_characters/Shard.md)
 - [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Associates
@@ -96,6 +104,8 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 - Dr. Johannas Wagner
 - Fire Hawk
 - Martians
+- Nazis
+- Schattenkrieger
 - Steel Shark
 - the Axis Legion
 - the Cult of the Naga
@@ -104,6 +114,7 @@ Shape Shifting, Stretching*, Highly Damage Resistant*, 'Springy' Legs*, Quick He
 - the Knight of Crows
 - the Serpent King
 - the SuperMercs
+- Tilingkoot
 - Valusi
 
 ### Home

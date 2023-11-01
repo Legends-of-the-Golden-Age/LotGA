@@ -58,7 +58,12 @@ Ben followed his instructions diligently for several hours. He heard a sharp -cr
 When Ben woke from the coma, everything around him seemed to have slowed down. He eventually learned that the world was normal; HE had sped up. Well then, he would use his newfound powers for America! And also be the best lab assistant in the world to atone for his great failure. He still doesn’t know what group was behind the attack on Dr. Reed’s experiment.
 
 ## Powers
-Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing Mud*, Punching Groups*, Quick Healing
+- Compressed-Air Punch*
+- Punching Groups*
+- Quick Healing
+- Running Up Walls and Over Water*
+- Super Speed*
+- Throwing Mud*
 
 <sub><sup> * Known to the general public</sup></sub>
 
@@ -70,6 +75,7 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 - [Dr. Reginald Reeds](/npcs/Reginald_Reeds.md)
 - [Faceless](Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
+- [Shard](player_characters/Shard.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow
@@ -93,24 +99,27 @@ Super Speed*, Running Up Walls and Over Water*, Compressed-Air Punch*, Throwing 
 [New_York_City](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Enemies
-- Martians
+- Atlanteans
+- Black Fin
+- Colletti Mob
+- Der Rind
+- Die Hexe
 - Doc Macabre
-- the Elemental Androids
+- Dr. Johannas Wagner
+- Fire Hawk
+- Martians
+- Nazis
+- Schattenkrieger
+- Steel Shark
 - the Axis Legion
 - the Cult of the Naga
+- the Elemental Androids
+- the Fascist Society of America
+- the Knight of Crows
 - the Serpent King
 - the SuperMercs
-- Atlanteans
-- Nazis
-- Colletti Mob
-- Dr. Johannas Wagner
+- Tilingkoot
 - Valusi
-- Fire Hawk
-- Black Fin
-- Steel Shark
-- Die Hexe
-- Der Rind
-- the Knight of Crows
 
 ### Home
 [New York City](/locations/New_York_State/New_York_City/New_York_City.md)

@@ -58,7 +58,15 @@ In 1937, a large and mysterious crystal was discovered in an Antonova Corporatio
 In early 1938, the Antonovas hosted a charity gala to auction off a number of precious stones and pieces of jewelry, the most highly publicized of which was the Arizona Crystal. During the party prior to the auction, the crystal was on display in the main ballroom in the Antonovas' home. Alessandra was (of course) delighted to spend time in the thick of the party, talking, dancing, and making sure guests were happy and willing to spend lots of money in the auction. Her sister, Lilly, less fond of social events, preferred to stay upstairs in her study researching the other crystals found at the same time as the Arizona Diamond. The party was in full swing when the crystals in Lilly's study began reacting strangely.  Before she could figure out what was happening, they and the Arizona Crystal exploded. The shockwave caused the Arizona Crystal and its display case to shatter and Alessandra caught the shrapnel full force to her back. Several guests at the party were injured, but nobody was killed. The worst of the injuries were Lilly and Alessandra, and they were rushed to receive emergency medical treatment. The doctors were shocked to find that, rather than destroying muscle and bone, the shattered pieces of crystal seemed to have fused themselves seamlessly into Alessandra's back. She was treated for bruising and a concussion from the force of the blast, but the doctors are still unsure how to remove the crystal or if it can even be done at all.
 
 ## Powers
-Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Durability*, Inhuman Leaps*, Earthquake Stomp*, Wrap in Object*, Thunder Clap*, Team Radio*
+- Crysatal Transformation*
+- Earthquake Stomp*
+- Extreme Density*
+- Inhuman Leaps*
+- Superhuman Durability*
+- Superhuman Strength*
+- Team Radio*
+- Thunder Clap*
+- Wrap in Object*
 
 <sub><sup> * Known to the general public</sup></sub>
 
@@ -69,6 +77,7 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 - [Double-Time](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
+- [Shard](player_characters/Shard.md)
 
 ### Associates
 - [Arthur Howell]
@@ -97,7 +106,6 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 [New York, NY](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Enemies
-- [Martians]
 - Atlanteans
 - Black Fin
 - Colletti Mob
@@ -105,17 +113,18 @@ Crysatal Transformation*, Extreme Density*, Superhuman Strength*, Superhuman Dur
 - Die Hexe
 - Doc Macabre
 - Dr. Johannas Wagner
-- Eisenmench
-- Fascist Society of America
 - Fire Hawk
+- Martians
+- Nazis
 - Schattenkrieger
 - Steel Shark
-- Super Mercs
 - the Axis Legion
 - the Cult of the Naga
-- the Elemental Androids 
+- the Elemental Androids
+- the Fascist Society of America
 - the Knight of Crows
 - the Serpent King
+- the SuperMercs
 - Tilingkoot
 - Valusi
 
