@@ -72,6 +72,7 @@ Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Mic
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
 - [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Tarraingteacht](/npcs/Tarraingteacht.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow

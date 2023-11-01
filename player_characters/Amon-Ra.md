@@ -79,6 +79,7 @@ Fluency: Arabic (classical), Atlantean, Egyptian (ancient), Persian (old)
 - [Faceless](player_characters/Faceless.md)
 - [Professor_Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
+- [Tarraingteacht](/npcs/Tarraingteacht.md)
 - The God of Wisdom
 
 ### Associates

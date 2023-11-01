@@ -90,6 +90,7 @@ When working on his first cold engine, something went horribly wrong and the eng
 - [Double Time!](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
 - [Shard](player_characters/Shard.md)
+- [Tarraingteacht](/npcs/Tarraingteacht.md)
 - Zoltan the Magnificent
 
 ### Associates

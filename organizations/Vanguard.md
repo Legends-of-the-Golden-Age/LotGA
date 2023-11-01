@@ -13,7 +13,7 @@ The premier super team of [New York City](../locations/New_York_State/New_York_C
 
 
 ## Allies
-
+- [Tarraingteacht](/npcs/Tarraingteacht.md) (former member)
 
 ## Enemies
 

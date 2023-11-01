@@ -77,6 +77,7 @@ Several guests at the party were injured, but nobody was killed. The worst of th
 - [Double-Time](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
+- [Tarraingteacht](/npcs/Tarraingteacht.md)
 - Zoltan the Magnificent
 
 ### Associates

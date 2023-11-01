@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "player_characters/Amon-Ra.md",
+                "file": "organizations/Vanguard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "player_characters/Amon-Ra.md",
+                "file": "organizations/Vanguard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "player_characters/Amon-Ra.md",
+                "file": "organizations/Vanguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "player_characters/Amon-Ra.md"
+                "file": "organizations/Vanguard.md"
               }
             }
           }
@@ -151,22 +151,22 @@
   },
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
+    "player_characters/Shard.md",
+    "player_characters/Amon-Ra.md",
+    "player_characters/Professor_Polar.md",
+    "player_characters/Faceless.md",
+    "player_characters/Double_Time.md",
+    "player_characters/Diamondback.md",
     "npcs/Mansel_Muddlescrombe.md",
     "npcs/Tarraingteacht.md",
     "_sidebar.md",
     "images/Sir_Mansel.jpg",
-    "player_characters/Shard.md",
-    "player_characters/Professor_Polar.md",
-    "player_characters/Double_Time.md",
-    "player_characters/Diamondback.md",
-    "player_characters/Amon-Ra.md",
     "organizations/British_Government/British_SOE.md",
     "organizations/British_Government",
     "pdf/Tarraingteacht.pdf",
     "pdf/Terraiingteacht.png",
     "images/Tarraingteacht.png",
     "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
-    "player_characters/Faceless.md",
     "organizations/Vanguard.md",
     "images/AmonRa.jpg",
     "pdf/Shard_Lab.pdf",

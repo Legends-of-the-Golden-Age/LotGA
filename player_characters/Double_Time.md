@@ -76,6 +76,7 @@ When Ben woke from the coma, everything around him seemed to have slowed down. H
 - [Faceless](Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
+- [Tarraingteacht](/npcs/Tarraingteacht.md)
 
 ### Associates
 - Burt 'Barnstormer' Barlow
