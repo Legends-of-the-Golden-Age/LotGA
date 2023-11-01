@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md"
+                "file": "_sidebar.md"
               }
             }
           }
@@ -151,16 +151,24 @@
   },
   "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
+    "npcs/Mansel_Muddlescrombe.md",
+    "images/Sir_Mansel.jpg",
+    "_sidebar.md",
+    "npcs/Tarraingteacht.md",
     "player_characters/Shard.md",
-    "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
     "player_characters/Professor_Polar.md",
-    "player_characters/Faceless.md",
     "player_characters/Double_Time.md",
     "player_characters/Diamondback.md",
     "player_characters/Amon-Ra.md",
+    "organizations/British Government/British_SOE.md",
+    "organizations/British Government",
+    "pdf/Tarraingteacht.pdf",
+    "pdf/Terraiingteacht.png",
+    "images/Tarraingteacht.png",
+    "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
+    "player_characters/Faceless.md",
     "organizations/Vanguard.md",
     "images/AmonRa.jpg",
-    "_sidebar.md",
     "pdf/Shard_Lab.pdf",
     "images/Shard_Lab.jpg",
     "pdf/Shard.pdf",
@@ -173,12 +181,10 @@
     "images/Prof_Polar.jpg",
     "npcs/Lawrence_Alexander_Williams.md",
     "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
-    "organizations/Government/FBI.md",
+    "organizations/U.S. Government/FBI.md",
     "locations/New_York_State/New_York_City/Staten_Island",
     "locations/New_York_State/New_York_City/The_Bronx",
     "locations/New_York_State/New_York_City",
-    "locations/New_York_State",
-    "organizations/Government",
     "images/Faceless.jpg",
     "npcs/Reginald_Reeds.md",
     "images/Double-Time.jpg",
@@ -189,10 +195,6 @@
     "templates/organization.md",
     "templates/NPC.md",
     "templates/location.md",
-    "templates/item.md",
-    "locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md",
-    "npcs/Dominic_Antonova.md",
-    "images/glowing_diamond.jpg",
-    "images/Diamondback.png"
+    "images/glowing_diamond.jpg"
   ]
 }

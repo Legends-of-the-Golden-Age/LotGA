@@ -71,6 +71,7 @@ Over the next two years Franklin learned the science of magic as was led to seve
 <sub><sup> * Known to the general public</sup></sub>
 
 ## Notes
+Fluency: Arabic (classical), Atlantean, Egyptian (ancient), Persian (old)
 
 ### Allies
 - [Diamondback](player_characters/Diamondback.md)

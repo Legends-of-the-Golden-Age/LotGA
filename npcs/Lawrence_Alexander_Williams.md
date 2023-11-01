@@ -5,7 +5,7 @@ created-by:
 
 # Lawrence Alexander Williams
 
-[FBI](/organizations/Government/FBI.md) Special Agent.
+[FBI](organizations/U.S.%20Government/FBI.md) Special Agent.
 Mentor (and father) of Michael Smith (aka [Faceless](/player_characters/Faceless.md)).
 Helped Zoltan forge a cover identity when he game to the U.S. to escape the Nazis.
 Is the U.S. government contact of Aoife Stewart (aka Tarraingteacht).
@@ -51,7 +51,7 @@ Any enemy of the United States of America.
 ### Property
 
 ### Memberships
-[FBI](/organizations/Government/FBI.md)
+[FBI](organizations/U.S.%20Government/FBI.md)
 
 ### Relations
 [Faceless](/player_characters/Faceless.md) (Adopted Son)

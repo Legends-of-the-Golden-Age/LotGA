@@ -10,6 +10,9 @@
 	- [Shard's Laboratory](locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md)
 - Non-Player Characters
 	- Allies
+		- [Tarraingteacht](npcs/Tarraingteacht.md)
 	- Enemies
 - Organizations
+	- [British_SOE](organizations/British%20Government/British_SOE.md)
+	- [FBI](organizations/U.S.%20Government/FBI.md)
 	- [Vanguard](/organizations/Vanguard.md)

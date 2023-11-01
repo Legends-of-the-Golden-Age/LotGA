@@ -71,6 +71,7 @@ In early 1938, the Antonovas hosted a charity gala to auction off a number of pr
 <sub><sup> * Known to the general public</sup></sub>
 
 ## Notes
+Fluency: Italian, French
 
 ### Allies
 - [Amon-Ra](player_characters/Amon-Ra.md)
