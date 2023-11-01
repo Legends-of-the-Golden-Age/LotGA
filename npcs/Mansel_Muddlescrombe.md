@@ -5,7 +5,7 @@ created-by:
 
 # Sir Mansel of Muddlescrombe
 
-Assistant to the The British Ambassador to the United States, Sir Ronald Lindsay.  He has been in diplomatic service for nearly 15 years now, having served in France, Germany and Turkey before his posting to the United States.  While his superior mainly resides in Washington D.C., Sir Mansel stays in [New York City](locations/New_York_State/New_York_City/New_York_City.md) as it is a major hub of business, culture and politics in the U.S. 
+Assistant to the The British Ambassador to the United States, Sir Ronald Lindsay.  He has been in diplomatic service for nearly 15 years now, having served in France, Germany and Turkey before his posting to the United States.  While his superior mainly resides in Washington D.C., Sir Mansel stays in [New York City](/locations/New_York_State/New_York_City/New_York_City.md) as it is a major hub of business, culture and politics in the U.S. 
 
 ## AKA:
 
@@ -33,7 +33,7 @@ Notes: |
 Fluencies: French, German
 
 ### Allies
-- [Tarraingteacht](npcs/Tarraingteacht.md)
+- [Tarraingteacht](/npcs/Tarraingteacht.md)
 
 ### Associates
 
@@ -43,7 +43,7 @@ Fluencies: French, German
 - Nazis
 
 ### Home
-- [New York City](locations/New_York_State/New_York_City/New_York_City.md)
+- [New York City](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Property
 

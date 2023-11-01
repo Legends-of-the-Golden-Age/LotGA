@@ -49,11 +49,11 @@ Aoife grew up in and around London, England.  During university, she was recruit
 ## Powers
 - Bullet-Resistant Costume
 - Magnetic Control\* 
-		- acting as a living radio
-		- constructing metal barriers\*
-		- deflecting metallic projectiles\*
-		- hurling metal objects\* 
-		- levitation\*
+	- acting as a living radio
+	- constructing metal barriers\*
+	- deflecting metallic projectiles\*
+	- hurling metal objects\* 
+	- levitation\*
 - Skilled martial artist
 
 <sub><sup> * Known to the general public</sup></sub>
@@ -62,17 +62,17 @@ Aoife grew up in and around London, England.  During university, she was recruit
 Fluent in Russian, German, Spanish and French
 
 ### Allies
-- [Amon-Ra](player_characters/Amon-Ra.md)
-- [Diamondback](player_characters/Diamondback.md)
-- [Double-Time](player_characters/Double_Time.md)
-- [Faceless](player_characters/Faceless.md)
-- [Professor Polar](player_characters/Professor_Polar.md)
-- [Shard](player_characters/Shard.md)
-- [Sir Mansel of Muddlescrombe](npcs/Mansel_Muddlescrombe.md)
+- [Amon-Ra](/player_characters/Amon-Ra.md)
+- [Diamondback](/player_characters/Diamondback.md)
+- [Double-Time](/player_characters/Double_Time.md)
+- [Faceless](/player_characters/Faceless.md)
+- [Professor Polar](/player_characters/Professor_Polar.md)
+- [Shard](/player_characters/Shard.md)
+- [Sir Mansel of Muddlescrombe](/npcs/Mansel_Muddlescrombe.md)
 
 ### Associates
 - Guardians of Freedom
-- [Special Agent Lawrence Alexander Williams](npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 
 ### Birthplace
 Manchester, England
@@ -85,13 +85,13 @@ Manchester, England
 - the Axis Legion
  
 ### Home
-[New York City](locations/New_York_State/New_York_City/New_York_City.md)
+[New York City](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Property
 
 ### Memberships
-- [Vanguard](organizations/Vanguard.md) (former)
-- [British S.O.E.](organizations/British_Government/British_SOE.md)
+- [Vanguard](/organizations/Vanguard.md) (former)
+- [British S.O.E.](/organizations/British_Government/British_SOE.md)
 
 ### Relations
 

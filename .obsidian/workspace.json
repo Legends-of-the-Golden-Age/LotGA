@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/Tarraingteacht.md",
+                "file": "player_characters/Amon-Ra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npcs/Tarraingteacht.md",
+                "file": "player_characters/Amon-Ra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npcs/Tarraingteacht.md",
+                "file": "player_characters/Amon-Ra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npcs/Tarraingteacht.md"
+                "file": "player_characters/Amon-Ra.md"
               }
             }
           }
@@ -149,12 +149,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "70811577ab13516e",
+  "active": "d79f006ecd1c7a11",
   "lastOpenFiles": [
-    "_sidebar.md",
     "npcs/Mansel_Muddlescrombe.md",
-    "images/Sir_Mansel.jpg",
     "npcs/Tarraingteacht.md",
+    "_sidebar.md",
+    "images/Sir_Mansel.jpg",
     "player_characters/Shard.md",
     "player_characters/Professor_Polar.md",
     "player_characters/Double_Time.md",
