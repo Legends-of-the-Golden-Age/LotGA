@@ -91,12 +91,33 @@ When working on his first cold engine, something went horribly wrong and the eng
 - [Faceless](player_characters/Faceless.md)
 - [Shard](player_characters/Shard.md)
 - [Tarraingteacht](/npcs/Tarraingteacht.md)
-- Zoltan the Magnificent
+- [Zoltan](Zoltan.md)
 
 ### Associates
 - Birog
+- Brian Loganach
+- Burt 'Barnstormer' Barlow
+- Chester Dupé
+- Click-Click-Hoot
+- Cpt. Brian Laganach
+- Defenders of Justice
+- Det. Beaumont
+- Dr. Leanne Brzezicki
+- [FBI](../organizations/US_Government/FBI.md)
 - Guardians of Freedom
+- Joshaua
 - Ka-Pow!
+- Knights of Albion
+- Leo Lawrence
+- Liberty Squad
+- Lt. Liberty
+- Lucy LaMonte
+- Mark Dupé
+- Officer Fitz
+- Officer Layne
+- Officer Smitty
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- the God of Storms
 - Thomas 'Thunderhead' Russ
 - U.S. Military
 

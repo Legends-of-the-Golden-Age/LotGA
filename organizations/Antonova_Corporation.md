@@ -21,3 +21,4 @@ description
 - [New York City](../locations/New_York_State/New_York_City/New_York_City.md)
 
 ## Other
+- Owns the property on which [Vanguard Headquarters](../locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md) is located.

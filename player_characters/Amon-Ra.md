@@ -81,22 +81,39 @@ Fluency: Arabic (classical), Atlantean, Egyptian (ancient), Persian (old)
 - [Shard](player_characters/Shard.md)
 - [Tarraingteacht](/npcs/Tarraingteacht.md)
 - The God of Wisdom
+- [Zoltan](Zoltan.md)
 
 ### Associates
-- [Brian Loganach] 
-- [Burt 'Barnstormer' Barlow] 
-- [Chester Dupé] 
-- [Click-Click-Hoot]
-- [Det. Beaumont] 
-- [Federal Bureau of Investigation]
-- [Guardians of Freedom]
-- [Lucy LaMonte] 
-- [Mark Dupé] 
-- [Officer Fitz] 
-- [Officer Layne] 
-- [Officer Smitty]
+- Arthur Howell
+- Birog
+- Brian Loganach
+- Burt 'Barnstormer' Barlow
+- Chester Dupé
+- Click-Click-Hoot
+- Cpt. Brian Laganach
+- Defenders of Justice
+- Det. Beaumont
+- Dr. Leanne Brzezicki
+- Federal Bureau of Investigation
+- Guardians of Freedom
+- Joshaua
+- Ka-Pow!
+- Knights of Albion
+- Leo Lawrence
+- Liberty Squad
+- Louis Best
+- Lt. Liberty
+- Lucy LaMonte
+- Mark Dupé
+- Officer Fitz
+- Officer Layne
+- Officer Smitty
+- Royal Canadian Mounted Police
 - [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
-
+- the God of Storms
+- Thomas 'Thunderhead' Russ
+- U.S. Military
+ 
 ### Birthplace
 [New York City]
 

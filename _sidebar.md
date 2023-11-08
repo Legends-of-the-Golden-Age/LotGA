@@ -6,13 +6,17 @@
 	- [Faceless](player_characters/Faceless.md)
 	- [Professor_Polar](player_characters/Professor_Polar.md)
 	- [Shard](player_characters/Shard.md)
+	- [Zoltan](player_characters/Zoltan.md)
 - Locations
 	- [Shard's Laboratory](locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md)
+	- [Vanguard Headquarters](locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md)
 - Non-Player Characters
 	- Allies
 		- [Tarraingteacht](npcs/Tarraingteacht.md)
+		- [Madam Dannica](npcs/Madam_Dannica.md)
 	- Enemies
 - Organizations
 	- [British_SOE](organizations/British_Government/British_SOE.md)
 	- [FBI](organizations/US_Government/FBI.md)
+	- [Those Who See](organizations/Those_Who_See.md)
 	- [Vanguard](/organizations/Vanguard.md)

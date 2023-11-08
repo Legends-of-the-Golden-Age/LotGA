@@ -73,24 +73,34 @@ Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Mic
 - [Shard](player_characters/Shard.md)
 - [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 - [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Zoltan](Zoltan.md)
 
 ### Associates
+- Birog
+- Brian Loganach
 - Burt 'Barnstormer' Barlow
-- Chester Dupe
+- Chester Dupé
 - Click-Click-Hoot
-- Cpt Brian Loganach
+- Cpt. Brian Laganach
 - Defenders of Justice
 - Det. Beaumont
 - Dr. Leanne Brzezicki
 - Guardians of Freedom
+- Joshaua
+- Ka-Pow!
 - Knights of Albion
+- Leo Lawrence
 - Liberty Squad
+- Lt. Liberty
 - Lucy LaMonte
-- Mark Dupe
-- Officer Fritz
+- Mark Dupé
+- Officer Fitz
 - Officer Layne
 - Officer Smitty
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
 - the God of Storms
+- Thomas 'Thunderhead' Russ
+- U.S. Military
 
 ### Birthplace
 [The Bronx](/locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md) (officially)

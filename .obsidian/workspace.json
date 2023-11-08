@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "661ae177a217dd07",
+        "id": "0d6f70bc1a44e720",
         "type": "tabs",
         "children": [
           {
-            "id": "d79f006ecd1c7a11",
+            "id": "233b36077e5a0c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "npcs/Ka-Pow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "npcs/Ka-Pow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "npcs/Ka-Pow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Vanguard.md"
+                "file": "npcs/Ka-Pow.md"
               }
             }
           }
@@ -149,25 +149,40 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d79f006ecd1c7a11",
+  "active": "233b36077e5a0c0b",
   "lastOpenFiles": [
+    "_sidebar.md",
+    "npcs/Ka-Pow.md",
+    "player_characters/Zoltan.md",
     "player_characters/Shard.md",
-    "player_characters/Amon-Ra.md",
     "player_characters/Professor_Polar.md",
     "player_characters/Faceless.md",
     "player_characters/Double_Time.md",
     "player_characters/Diamondback.md",
-    "npcs/Mansel_Muddlescrombe.md",
+    "player_characters/Amon-Ra.md",
+    "pdf/Amon-Ra.pdf",
+    "organizations/Vanguard.md",
+    "organizations/Those_Who_See.md",
+    "npcs/Madam_Dannica.md",
+    "npcs/Elan_Klempar.md",
+    "locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md",
+    "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
+    "organizations/Antonova_Corporation.md",
+    "pdf/VanguardBase.pdf",
+    "pdf/SpeakeasyHideout.pdf",
+    "locations/New_York_State/New_York_City/Brooklyn",
+    "Untitled.md",
+    "images/Tarraingteacht.png",
+    "pdf/Zoltan.pdf",
+    "images/Zoltan.jpg",
     "npcs/Tarraingteacht.md",
-    "_sidebar.md",
+    "npcs/Mansel_Muddlescrombe.md",
     "images/Sir_Mansel.jpg",
     "organizations/British_Government/British_SOE.md",
     "organizations/British_Government",
     "pdf/Tarraingteacht.pdf",
     "pdf/Terraiingteacht.png",
-    "images/Tarraingteacht.png",
     "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
-    "organizations/Vanguard.md",
     "images/AmonRa.jpg",
     "pdf/Shard_Lab.pdf",
     "images/Shard_Lab.jpg",
@@ -175,26 +190,12 @@
     "images/Shard.png",
     "organizations/New_York_University.md",
     "locations/New_York_State/New_York_City/Manhattan/Manhattan.md",
-    "pdf/Amon-Ra.pdf",
     "locations/New_York_State/New_York_City/Manhattan",
-    "pdf/Professor_Polar.pdf",
     "images/Prof_Polar.jpg",
     "npcs/Lawrence_Alexander_Williams.md",
-    "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
     "organizations/US_Government/FBI.md",
-    "locations/New_York_State/New_York_City/Staten_Island",
-    "locations/New_York_State/New_York_City/The_Bronx",
-    "locations/New_York_State/New_York_City",
     "images/Faceless.jpg",
     "npcs/Reginald_Reeds.md",
-    "images/Double-Time.jpg",
-    "locations/New_York_State/New_York_City/New_York_City.md",
-    "templates/story_arc.md",
-    "templates/session-log.md",
-    "templates/player-character.md",
-    "templates/organization.md",
-    "templates/NPC.md",
-    "templates/location.md",
-    "images/glowing_diamond.jpg"
+    "images/Double-Time.jpg"
   ]
 }

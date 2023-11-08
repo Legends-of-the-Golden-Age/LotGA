@@ -77,24 +77,28 @@ When Ben woke from the coma, everything around him seemed to have slowed down. H
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
 - [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Zoltan](Zoltan.md)
 
 ### Associates
+- Birog
+- Brian Loganach
 - Burt 'Barnstormer' Barlow
-- Chester Dupe
-- Click-Click-Hoot
 - Cpt. Brian Laganach
+- Defenders of Justice
 - Det. Beaumont
 - Dr. Leanne Brzezicki
-- Federal Bureau of Investigation
+- [FBI](../organizations/US_Government/FBI.md)
 - Guardians of Freedom
-- Knights of Albion
+- Ka-Pow!
+- Leo Lawrence
+- Liberty Squad
+- Lt. Liberty
 - Lucy LaMonte
-- Mark Dupe
 - Officer Fitz
 - Officer Layne
-- Officer Smitty
-- Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
-- the God of Storms
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- Thomas 'Thunderhead' Russ
+- U.S. Military
 
 ### Birthplace
 [New_York_City](/locations/New_York_State/New_York_City/New_York_City.md)

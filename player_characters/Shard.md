@@ -78,11 +78,39 @@ Several guests at the party were injured, but nobody was killed. The worst of th
 - [Faceless](player_characters/Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Tarraingteacht](/npcs/Tarraingteacht.md)
-- Zoltan the Magnificent
+- [Zoltan](Zoltan.md)
 
 ### Associates
+- Arthur Howell
+- Birog
+- Brian Loganach
+- Burt 'Barnstormer' Barlow
+- Chester Dupé
+- Click-Click-Hoot
+- Cpt. Brian Laganach
+- Defenders of Justice
+- Det. Beaumont
+- Dr. Alan Kripke
+- Dr. Leanne Brzezicki
+- [FBI](../organizations/US_Government/FBI.md)
 - Guardians of Freedom
-- Alan Kripke
+- Joshaua
+- Ka-Pow!
+- Knights of Albion
+- Leo Lawrence
+- Liberty Squad
+- Louis Best
+- Lt. Liberty
+- Lucy LaMonte
+- Mark Dupé
+- Officer Fitz
+- Officer Layne
+- Officer Smitty
+- Royal Canadian Mounted Police
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- the God of Storms
+- Thomas 'Thunderhead' Russ
+- U.S. Military
 
 ### Birthplace
 [New York City](locations/New_York_State/New_York_City/New_York_City.md)

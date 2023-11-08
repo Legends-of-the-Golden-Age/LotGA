@@ -80,29 +80,38 @@ Fluency: Italian, French
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
 - [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Zoltan](Zoltan.md)
 
 ### Associates
-- [Arthur Howell]
-- [Burt 'Barnstormer' Barlow]
-- [Cester Dupe]
-- [Click-Click-Hoot]
-- [Cpt. Brian Loganach]
-- [Defenders of Justice]
-- [Det. Beaumont]
-- [Federal Bureau of Investigation]
-- [Guardians of Freedom]
-- [Joshaua]
-- [Knights of Albion]
-- [Leo Lawrence]
-- [Liberty Squad]
-- [Louis Best]
-- [Lt. Liberty]
-- [Lucy LaMonte]
-- [Mark Dupe]
-- [Officer Layne]
-- [Royal Canadian Mounted Police]
-- Special Agent [Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
-- the [God of Storms]
+- Arthur Howell
+- Birog
+- Brian Loganach
+- Burt 'Barnstormer' Barlow
+- Chester Dupé
+- Click-Click-Hoot
+- Cpt. Brian Laganach
+- Defenders of Justice
+- Det. Beaumont
+- Dr. Leanne Brzezicki
+- Federal Bureau of Investigation
+- Guardians of Freedom
+- Joshaua
+- Ka-Pow!
+- Knights of Albion
+- Leo Lawrence
+- Liberty Squad
+- Louis Best
+- Lt. Liberty
+- Lucy LaMonte
+- Mark Dupé
+- Officer Fitz
+- Officer Layne
+- Officer Smitty
+- Royal Canadian Mounted Police
+- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- the God of Storms
+- Thomas 'Thunderhead' Russ
+- U.S. Military
 
 ### Birthplace
 [New York, NY](/locations/New_York_State/New_York_City/New_York_City.md)
