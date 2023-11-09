@@ -102,7 +102,9 @@ In the aftermath, just as Lt. Davis is thanking the heroes for their help, he re
 - [Staten_Island](/locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md)
 
 ## Items
-
+- [Martian_Heat_Ray](items/Martian_Heat_Ray.md)
+- [Martian_Landing_Pod](items/Martian_Landing_Pod.md)
+- [Martian_Tripod](items/Martian_Tripod.md)
 
 ## Related
 - [Headlines_10_1938](/headlines/Headlines_10_1938.md)
