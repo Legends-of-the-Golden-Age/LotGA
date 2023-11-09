@@ -22,7 +22,7 @@ Weight: | 200-250lbs
 Genders: | ??
 Notes: |
 
-<img title="Martian" src="../images/Martian.jpg">
+<img title="Martian" src="images/Martian.jpg">
 
 ## Background / Origin
 
