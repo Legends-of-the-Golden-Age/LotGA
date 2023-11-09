@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/Ka-Pow.md",
-                "mode": "preview",
+                "file": "_sidebar.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npcs/Ka-Pow.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npcs/Ka-Pow.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npcs/Ka-Pow.md"
+                "file": "_sidebar.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   },
   "active": "233b36077e5a0c0b",
   "lastOpenFiles": [
+    "npcs/Ka-Pow.md",
     "items/Ka-Pow_Motorcycle.md",
     "player_characters/Zoltan.md",
-    "npcs/Ka-Pow.md",
     "pdf/Ka-Pow_Motorcycle.pdf",
     "images/Ka-Pow_motorcycle.jpg",
     "pdf/Ka-Pow.pdf",

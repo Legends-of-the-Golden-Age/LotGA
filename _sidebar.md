@@ -12,8 +12,9 @@
 	- [Vanguard Headquarters](locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md)
 - Non-Player Characters
 	- Allies
-		- [Tarraingteacht](npcs/Tarraingteacht.md)
+		- [Ka-Pow](npcs/Ka-Pow.md)
 		- [Madam Dannica](npcs/Madam_Dannica.md)
+		- [Tarraingteacht](npcs/Tarraingteacht.md)
 	- Enemies
 - Organizations
 	- [British_SOE](organizations/British_Government/British_SOE.md)
