@@ -26,7 +26,7 @@ A mysterious flash in the sky on Halloween night heralds the coming of an uneart
 11/11/2017
 
 ## Full Summary
-The Antonova family, rich industrialists living on [Staten Island](/locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md) in [New York City](/locations/New_York_State/New_York_City/New_York_City.md), throw a masked charity ball for Halloween. They have hired [Zoltan the Magnificent](/player_characters/Zoltan.md) as the evening’s entertainment. Guests include Aoife Stewart (aka [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md)), who is attending with [Sir Mansel of Muddlescrombe](../npcs/friends_and_allies/government/Mansel_Muddlescrombe.md), the British Ambassador; Michael Smith (aka [Faceless](/player_characters/Faceless.md)), currently posing as “Larry” and wearing the best Frankenstein’s Creature costume anyone has ever seen; Sean Gorman (aka [Professor Polar](/player_characters/Professor_Polar.md)), who was invited as a member of the scientific community; and Ben Walker (aka [Double Time](/player_characters/Double_Time.md)), who is accompanying his employer, [Dr. Reginald Reeds](../npcs/friends_and_allies/Reginald_Reeds.md).
+The Antonova family, rich industrialists living on [Staten Island](/locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md) in [New York City](/locations/New_York_State/New_York_City/New_York_City.md), throw a masked charity ball for Halloween. They have hired [Zoltan the Magnificent](/player_characters/Zoltan.md) as the evening’s entertainment. Guests include Aoife Stewart (aka [Tarraingteacht](/npcs/friends_and_allies/Tarraingteacht.md)), who is attending with [Sir Mansel of Muddlescrombe](/npcs/friends_and_allies/government/Mansel_Muddlescrombe.md), the British Ambassador; Michael Smith (aka [Faceless](/player_characters/Faceless.md)), currently posing as “Larry” and wearing the best Frankenstein’s Creature costume anyone has ever seen; Sean Gorman (aka [Professor Polar](/player_characters/Professor_Polar.md)), who was invited as a member of the scientific community; and Ben Walker (aka [Double Time](/player_characters/Double_Time.md)), who is accompanying his employer, [Dr. Reginald Reeds](/npcs/friends_and_allies/Reginald_Reeds.md).
 
 Zoltan gives one of the most amazing magical performances anyone has ever seen, including the levitation of [Diamondback](/player_characters/Diamondback.md) off of a table. However, while the magic is amazing, his patter could use a little refinement. Still, his tricks are so amazing almost no one cares and Alessandra asks if she can put him on “retainer” for all her future social functions. As the Antonova family has been quite generous with his pay, he’s more than willing to accept.
 
@@ -44,7 +44,7 @@ Faceless, on his way to Grover’s Mill, comes across a police road block. He le
 
 The Antonova Sisters are the next to encounter a police road block. Rather than trying to bluff their way past, they turn back and hide their car out of sight of the police. They each don a mask from the previous night’s party along with a cape to hide their clothing. Once attired, they proceed to make their way ‘on foot’ through the fields and forests. [Shard](/player_characters/Shard.md) barely manages to retain her breakfast while riding piggyback on her sister as she leaps and bounds toward Grover's Mill.
 
-Double-Time, Professor Polar and Zoltan, after discovering that they are all heading to Grover's Mill, agree to share a cab. When they reach the road block, Zoltan somehow bluffs his way past the police using a blank piece of paper and an unconvincing story about working for the government. Everyone is perplexed, especially the cab driver, [Benny_Martin](../npcs/friends_and_allies/Benny_Martin.md). Prof Polar did note the strange hand gestures, almost like some kind of code, being used by Zoltan during the whole exchange.
+Double-Time, Professor Polar and Zoltan, after discovering that they are all heading to Grover's Mill, agree to share a cab. When they reach the road block, Zoltan somehow bluffs his way past the police using a blank piece of paper and an unconvincing story about working for the government. Everyone is perplexed, especially the cab driver, [Benny_Martin](/npcs/friends_and_allies/Benny_Martin.md). Prof Polar did note the strange hand gestures, almost like some kind of code, being used by Zoltan during the whole exchange.
 
 Tarraingteacht doesn’t bother with the roads and chooses to fly toward town, staying low to the fields and trees to slip by the road blocks.
 
@@ -68,11 +68,11 @@ Professor Polar pulls out a strange pistol-like device and sprays some sort of b
 
 Just after she lands, the disk opens up and a large tank-like frame mounted on a trio of stilts rises up out of what is now obviously a mostly buried cylinder. The [Tripod](/items/Martian_Tripod.md) continues to rise up and up, taller than the nearby two-story barn.
 
-A massive battle ensues between our heroes and the national guardsmen against the creatures and tripod inside the crater. The soldiers find their own firepower useless against the tripod as bullets, even from the .30 caliber machine guns, are unable to penetrate its hull. Likewise, once a bazooka shell finally hits, it fails to penetrate the hull. Our heroes fare a little better, with Diamondback’s strength,  Tarraingteacht’s magnetic manipulations and Professor Polar’s cold beams able to do at least slight damage to the tripod. After seeing that the heroes are the only ones able to harm the alien tank, [Lt. Dan Davis](../npcs/friends_and_allies/military/Dan_Davis.md) orders his men to concentrate their firepower on the tentacled aliens.
+A massive battle ensues between our heroes and the national guardsmen against the creatures and tripod inside the crater. The soldiers find their own firepower useless against the tripod as bullets, even from the .30 caliber machine guns, are unable to penetrate its hull. Likewise, once a bazooka shell finally hits, it fails to penetrate the hull. Our heroes fare a little better, with Diamondback’s strength,  Tarraingteacht’s magnetic manipulations and Professor Polar’s cold beams able to do at least slight damage to the tripod. After seeing that the heroes are the only ones able to harm the alien tank, [Lt. Dan Davis](/npcs/friends_and_allies/military/Dan_Davis.md) orders his men to concentrate their firepower on the tentacled aliens.
 
 Meanwhile, Zoltan and Double-Time dedicate themselves to taking out the tentacled creatures. Zoltan finds the creatures minds too ‘slippery’ to get a good ‘grip’ on and resorts to wrapping them up in mystical ribbon (complete with a pretty bow).
 
-The aliens’ [heat rays](../items/Martian_Heat_Ray.md) prove equally ineffectual against Diamondback and are unable to even hit almost anyone else. The [Martian Tripod's](/items/Martian_Tripod.md) more massive heat ray, however, literally evaporates a portion of Shard’s crystal wall, and she quickly has to reinforce it to continue protecting the soldiers. 
+The aliens’ [heat rays](/items/Martian_Heat_Ray.md) prove equally ineffectual against Diamondback and are unable to even hit almost anyone else. The [Martian Tripod's](/items/Martian_Tripod.md) more massive heat ray, however, literally evaporates a portion of Shard’s crystal wall, and she quickly has to reinforce it to continue protecting the soldiers. 
 
 At one point, Professor Polar channels extra power through his odd ray gun, managing to not only seriously damage the Tripod but actually send it staggering back several meters before it falls over at Faceless’s feet (who’d been trying to sneak up behind the aliens). Faceless manages to, quite literally, hammer the tripod before it staggers back to its feet and punt him a short distance (the most damage done to the group thus far). This is followed by Diamondback executing a screaming charge at one of the tripod’s legs as the rest of the group launches every full-strength attack they have at the monster machine. Diamondback slams into one leg, sending the war machine staggering again and various beams, tractor parts and crystalline shards slam into it, knocking it back down. Alas, Diamondback impacts so hard that she nearly knocks herself unconscious. As the alien machine once again staggers upright, only two of its three legs still functioning, Prof Polar delivers the killing blow. 
 
@@ -81,17 +81,17 @@ The rest of the group and the guardsmen mop up the remaining aliens with little 
 In the aftermath, just as Lt. Davis is thanking the heroes for their help, he receives a report from HQ about more cylinders impacting and releasing the alien tripods all over.
 
 ## Participants
-- [Benny Martin](../npcs/friends_and_allies/Benny_Martin.md)
+- [Benny Martin](/npcs/friends_and_allies/Benny_Martin.md)
 - [Diamondback](/player_characters/Diamondback.md)
 - [Double_Time](/player_characters/Double_Time.md)
-- [Lt. Dan Davis](../npcs/friends_and_allies/military/Dan_Davis.md)
-- [Martians](../npcs/foes/martians/Martian.md)
+- [Lt. Dan Davis](/npcs/friends_and_allies/military/Dan_Davis.md)
+- [Martians](/npcs/foes/martians/Martian.md)
 - [National Guard](/organizations/US_Government/US_National_Guard.md)
 - [Professor_Polar](/player_characters/Professor_Polar.md)
-- [Reginald_Reeds](../npcs/friends_and_allies/Reginald_Reeds.md)
+- [Reginald_Reeds](/npcs/friends_and_allies/Reginald_Reeds.md)
 - [Shard](/player_characters/Shard.md)
-- [Sir Mansel of Muddlescrombe](../npcs/friends_and_allies/government/Mansel_Muddlescrombe.md)
-- [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md)
+- [Sir Mansel of Muddlescrombe](/npcs/friends_and_allies/government/Mansel_Muddlescrombe.md)
+- [Tarraingteacht](/npcs/friends_and_allies/Tarraingteacht.md)
 - [Vanguard](/organizations/Vanguard.md)
 - [Zoltan](/player_characters/Zoltan.md)
 
@@ -105,8 +105,8 @@ In the aftermath, just as Lt. Davis is thanking the heroes for their help, he re
 
 
 ## Related
-- [Headlines_10_1938](../headlines/Headlines_10_1938.md)
-- [Headlines_11_1938](../headlines/Headlines_11_1938.md)
+- [Headlines_10_1938](/headlines/Headlines_10_1938.md)
+- [Headlines_11_1938](/headlines/Headlines_11_1938.md)
 
 ## Previous Issue
 none

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/foes/martians/Martian.md",
+                "file": "sessions/Issue-001.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npcs/foes/martians/Martian.md",
+                "file": "sessions/Issue-001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npcs/foes/martians/Martian.md",
+                "file": "sessions/Issue-001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npcs/foes/martians/Martian.md"
+                "file": "sessions/Issue-001.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "3ca15c71ed9edee0",
   "lastOpenFiles": [
+    "npcs/foes/martians/Martian.md",
     "npcs/friends_and_allies/military/Dan_Davis.md",
     "images/Martian.jpg",
     "_sidebar.md",
@@ -166,7 +167,6 @@
     "organizations/German_Government/Nazi_Party.md",
     "npcs/other/Jack_Fool.md",
     "npcs/friends_and_allies/Benny_Martin.md",
-    "npcs/foes/martians/Martian.md",
     "locations/New Jersey/New_Brunswick.md",
     "locations/New Jersey/Grovers_Mill.md",
     "items/Martian_Tripod.md",
