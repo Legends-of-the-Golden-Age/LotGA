@@ -83,7 +83,7 @@ Fluency: Roma, Romanian, German, Slovak, Hebrew
 - [Double-Time](Double_Time.md)
 - [Elan Klempar](/npcs/Elan_Klempar.md) (deceased, mentor)
 - [Faceless](Faceless.md)
-- [Madam Dannica](../npcs/Madam_Dannica.md) (paramour, student)
+- [Madam Dannica](/npcs/Madam_Dannica.md) (paramour, student)
 - [Professor Polar](Professor_Polar.md)
 - [Shard](Shard.md)
 - [Those Who See](/organizations/Those_Who_See.md)
