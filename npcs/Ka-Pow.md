@@ -19,6 +19,7 @@ Height: | 5' 5"
 Weight: | 135lbs
 Gender: | female
 Notes: |
+
 ![picture](../images/Ka-Pow.jpg)
 
 ## Background / Origin
@@ -64,7 +65,7 @@ She earns her living as a mechanic and uses her fighting skills and toughness to
 [New York City](/locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Property
-- [Customized Indian Chief](../items/Ka-Pow_Motorcycle.md) (motorcycle)
+- [Customized Indian Chief](/items/Ka-Pow_Motorcycle.md) (motorcycle)
 - Personal Garage/Workshop
 
 ### Memberships

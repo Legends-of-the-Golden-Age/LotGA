@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Ka-Pow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Ka-Pow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "npcs/Ka-Pow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "npcs/Ka-Pow.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "233b36077e5a0c0b",
   "lastOpenFiles": [
+    "_sidebar.md",
     "npcs/Ka-Pow.md",
     "items/Ka-Pow_Motorcycle.md",
     "player_characters/Zoltan.md",
@@ -171,7 +172,6 @@
     "images/Ka-Pow_motorcycle.jpg",
     "pdf/Ka-Pow.pdf",
     "images/Ka-Pow.jpg",
-    "_sidebar.md",
     "player_characters/Shard.md",
     "player_characters/Professor_Polar.md",
     "player_characters/Faceless.md",
