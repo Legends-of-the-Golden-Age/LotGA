@@ -14,6 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "npcs/Ka-Pow.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9e5bd4cb87a89145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "player_characters/Zoltan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -151,9 +164,14 @@
   },
   "active": "233b36077e5a0c0b",
   "lastOpenFiles": [
-    "_sidebar.md",
-    "npcs/Ka-Pow.md",
+    "items/Ka-Pow_Motorcycle.md",
     "player_characters/Zoltan.md",
+    "npcs/Ka-Pow.md",
+    "pdf/Ka-Pow_Motorcycle.pdf",
+    "images/Ka-Pow_motorcycle.jpg",
+    "pdf/Ka-Pow.pdf",
+    "images/Ka-Pow.jpg",
+    "_sidebar.md",
     "player_characters/Shard.md",
     "player_characters/Professor_Polar.md",
     "player_characters/Faceless.md",
@@ -186,16 +204,11 @@
     "images/AmonRa.jpg",
     "pdf/Shard_Lab.pdf",
     "images/Shard_Lab.jpg",
-    "pdf/Shard.pdf",
     "images/Shard.png",
     "organizations/New_York_University.md",
     "locations/New_York_State/New_York_City/Manhattan/Manhattan.md",
-    "locations/New_York_State/New_York_City/Manhattan",
     "images/Prof_Polar.jpg",
     "npcs/Lawrence_Alexander_Williams.md",
-    "organizations/US_Government/FBI.md",
-    "images/Faceless.jpg",
-    "npcs/Reginald_Reeds.md",
-    "images/Double-Time.jpg"
+    "organizations/US_Government/FBI.md"
   ]
 }
