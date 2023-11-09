@@ -1,3 +1,6 @@
+---
+type: npc
+---
 <!--
 type: non-player-character
 created-by:

@@ -1,3 +1,6 @@
+---
+type: location
+---
 # Location
 
 description

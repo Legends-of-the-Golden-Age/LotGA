@@ -1,3 +1,6 @@
+---
+type: pc
+---
 <!--
 type: player-character
 created-by:
@@ -14,7 +17,7 @@ brief description
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](../npcs/Lawrence_Alexander_Williams.md#Associates)
+- [Associates](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)

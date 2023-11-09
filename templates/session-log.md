@@ -1,3 +1,6 @@
+---
+type: session
+---
 # Title
 
 description

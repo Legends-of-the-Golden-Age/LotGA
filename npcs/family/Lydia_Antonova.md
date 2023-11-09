@@ -1,8 +1,11 @@
+---
+type: npc
+---
 <!--
 type: non-player-character
 created-by:
 -->
-Brother of [Diamondback](/player_characters/Diamondback.md).
+brief description
 
 ## AKA:
 
@@ -13,9 +16,10 @@ Hair: |
 Eyes: | 
 Height: |
 Weight: |
-Gender: | Male
-Born: | 1893
+Gender: | Female
+Born: | 1895
 Notes: |
+![picture](../images/image.jpg)
 
 ## Background / Origin
 
@@ -32,24 +36,22 @@ Notes: |
 ### Associates
 
 ### Birthplace
-[New York City](../locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Enemies
 
 ### Home
-[Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
+[Antonova Estate](../../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 
 ### Property
-[Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
+[Antonova Estate](../../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 
 ### Memberships
-[Antonova Corporation](/organizations/Antonova_Corporation.md) (founder and majority shareholder)
 
 ### Relations
+- [Dominic_Antonova](family/Dominic_Antonova.md) (husband)
 - [Diamondback](/player_characters/Diamondback.md) (daughter)
 - Shard (daughter)
-- [Lydia Antonova](/npcs/Lydia_Antonova.md) (wife)
-- [Victor_Antonova](/npcs/Victor_Antonova.md) (son)
+- [Victor Antonova](Victor_Antonova.md) (son)
 
 ### Rivals
 

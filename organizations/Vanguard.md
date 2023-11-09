@@ -1,3 +1,6 @@
+---
+type: organization
+---
 # Vanguard
 The premier super team of [New York City](../locations/New_York_State/New_York_City/New_York_City.md) (PC Team).
 
@@ -14,9 +17,9 @@ The premier super team of [New York City](../locations/New_York_State/New_York_C
 
 
 ## Allies
-- [Ka-Pow](/npcs/Ka-Pow.md) (former member)
-- [Madam_Dannica](/npcs/Madam_Dannica.md)
-- [Tarraingteacht](/npcs/Tarraingteacht.md) (former member)
+- [Ka-Pow](../npcs/friends_and_allies/Ka-Pow.md) (former member)
+- [Madam_Dannica](../npcs/friends_and_allies/Madam_Dannica.md)
+- [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md) (former member)
 
 ## Enemies
 

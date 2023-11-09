@@ -1,3 +1,6 @@
+---
+type: npc
+---
 <!--
 type: non-player-character
 created-by:
@@ -42,7 +45,7 @@ Notes: |
 
 ### Associates
 - [Vanguard](/organizations/Vanguard.md)
-- [Elan Klempar](Elan_Klempar.md)
+- [Elan Klempar](friends_and_allies/Elan_Klempar.md)
 
 ### Birthplace
 [Lyndon, Kentucky](https://en.wikipedia.org/wiki/Lyndon,_Kentucky)
@@ -50,7 +53,7 @@ Notes: |
 ### Enemies
 
 ### Home
-[New York City](../locations/New_York_State/New_York_City/New_York_City.md)
+[New York City](../../locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Property
 

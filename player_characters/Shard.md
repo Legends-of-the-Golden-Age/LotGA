@@ -1,3 +1,6 @@
+---
+type: pc
+---
 <!--
 type: player-character
 created-by:
@@ -15,7 +18,7 @@ Lilah, born into the affluent Antonova family, was not content to simply be one 
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](../npcs/Lawrence_Alexander_Williams.md#Associates)
+- [Associates](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -46,7 +49,7 @@ Impatient, arrogant, insular. Worried about family business and family situation
 
 ## Origin
 **The Antonova Family**
-[Dominic_Antonova](/npcs/Dominic_Antonova.md) is the heir to [Antonova Industrial](/organizations/Antonova_Corporation.md), a [New York](/locations/New_York_State/New_York_City/New_York_City.md) company built by his father to supply metals and minerals for industrial purposes. He married [Lydia Williamson](/npcs/Lydia_Antonova.md), the daughter of a respected jeweler, in 1912 and they had their first daughter, Lilly, in 1913. Soon after that, news of war in Europe started to draw the nation's attention. Hopeful that the United States would remain neutral and stay out of the war, Dominic and Lydia continued to build their business and Alessandra joined the family in 1915. Dominic was drafted for the war in 1917 and left Lydia w/ their two young daughters, but returned safely in 1919. The third Antonova child, [Victor](/npcs/Victor_Antonova.md), was born in 1923. After his father's death in 1930, Dominic inherited full ctrl of Antonova Industrial. The Antonovas combined their families' lines of business and Antonova Industrial became the Antonova Corporation, a supplier of both industrial metals and materials as well as precious stones for jewelers. Now, the Antonovas are wealthy and respected members of society who use their company to engage in philanthropy and pioneer new uses for minerals and metals.
+[Dominic_Antonova](../npcs/family/Dominic_Antonova.md) is the heir to [Antonova Industrial](/organizations/Antonova_Corporation.md), a [New York](/locations/New_York_State/New_York_City/New_York_City.md) company built by his father to supply metals and minerals for industrial purposes. He married [Lydia Williamson](../npcs/family/Lydia_Antonova.md), the daughter of a respected jeweler, in 1912 and they had their first daughter, Lilly, in 1913. Soon after that, news of war in Europe started to draw the nation's attention. Hopeful that the United States would remain neutral and stay out of the war, Dominic and Lydia continued to build their business and Alessandra joined the family in 1915. Dominic was drafted for the war in 1917 and left Lydia w/ their two young daughters, but returned safely in 1919. The third Antonova child, [Victor](../npcs/family/Victor_Antonova.md), was born in 1923. After his father's death in 1930, Dominic inherited full ctrl of Antonova Industrial. The Antonovas combined their families' lines of business and Antonova Industrial became the Antonova Corporation, a supplier of both industrial metals and materials as well as precious stones for jewelers. Now, the Antonovas are wealthy and respected members of society who use their company to engage in philanthropy and pioneer new uses for minerals and metals.
 
 **The Arizona Crystal**
 In 1937, a large and mysterious crystal was discovered in an Antonova Corporation copper mine in Arizona. The crystal is similar to a white diamond in appearance, but had a different structure that didn't match any other known material. Antonova Corporation scientists were also puzzled by the fact that the crystal came out of the earth looking professionally cut. The crystal also seemed to have an odd "glow" to it in the light rather than the typical sparkle of a diamond. The [Arizona Crystal](/items/Arizona_Crystal.md) was ultimately determined not to be useful for any practical purpose, but given its beauty and uniqueness, the Antonovas decided to auction it off for charity.
@@ -77,7 +80,7 @@ Several guests at the party were injured, but nobody was killed. The worst of th
 - [Double-Time](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
-- [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md)
 - [Zoltan](Zoltan.md)
 
 ### Associates
@@ -107,7 +110,7 @@ Several guests at the party were injured, but nobody was killed. The worst of th
 - Officer Layne
 - Officer Smitty
 - Royal Canadian Mounted Police
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md)
 - the God of Storms
 - Thomas 'Thunderhead' Russ
 - U.S. Military
@@ -152,10 +155,10 @@ Several guests at the party were injured, but nobody was killed. The worst of th
 - [Antonova Corporation](organizations/Antonova_Corporation.md)
 
 ### Relations
-- [Dominic Antonova](npcs/Dominic_Antonova.md) (father)
-- [Lydia Antonova](npcs/Lydia_Antonova.md) (mother)
+- [Dominic Antonova](../npcs/family/Dominic_Antonova.md) (father)
+- [Lydia Antonova](../npcs/family/Lydia_Antonova.md) (mother)
 - [Diamondback](player_characters/Diamondback.md) (sister)
-- [Victor Antonova](npcs/Victor_Antonova.md) (brother)
+- [Victor Antonova](../npcs/family/Victor_Antonova.md) (brother)
 
 ### Rivals
 

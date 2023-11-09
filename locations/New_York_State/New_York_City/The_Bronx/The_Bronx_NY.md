@@ -1,3 +1,6 @@
+---
+type: location
+---
 # The Bronx
 
 A borough of [New York City](/New_York_City.md)

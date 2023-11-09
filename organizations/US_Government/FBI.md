@@ -1,3 +1,6 @@
+---
+type: organization
+---
 # FBI
 
 [wikipedia](https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)

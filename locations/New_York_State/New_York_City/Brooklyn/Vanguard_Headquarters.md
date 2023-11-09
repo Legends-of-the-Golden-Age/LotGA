@@ -1,3 +1,6 @@
+---
+type: location
+---
 # Vanguard Headquarters
 Abandoned speakeasy modified to be the new home base of Vanguard.
 

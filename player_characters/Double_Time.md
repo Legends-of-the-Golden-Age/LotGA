@@ -1,3 +1,6 @@
+---
+type: pc
+---
 <!--
 type: player-character
 created-by:
@@ -15,7 +18,7 @@ As a young lab assistant, Ben, was caught in a lab accident during a strange exp
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](/npcs/Lawrence_Alexander_Williams.md#Associates)
+- [Associates](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -72,11 +75,11 @@ When Ben woke from the coma, everything around him seemed to have slowed down. H
 ### Allies
 - [Amon-Ra](Amon-Ra.md)
 - [Diamondback](Diamondback.md)
-- [Dr. Reginald Reeds](/npcs/Reginald_Reeds.md)
+- [Dr. Reginald Reeds](../npcs/friends_and_allies/Reginald_Reeds.md)
 - [Faceless](Faceless.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
-- [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md)
 - [Zoltan](Zoltan.md)
 
 ### Associates
@@ -96,7 +99,7 @@ When Ben woke from the coma, everything around him seemed to have slowed down. H
 - Lucy LaMonte
 - Officer Fitz
 - Officer Layne
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md)
 - Thomas 'Thunderhead' Russ
 - U.S. Military
 
@@ -135,7 +138,7 @@ When Ben woke from the coma, everything around him seemed to have slowed down. H
 [Vanguard](/organizations/Vanguard.md)
 
 ### Relations
-- [Reginald Reeds](/npcs/Reginald_Reeds.md) (foster father)
+- [Reginald Reeds](../npcs/friends_and_allies/Reginald_Reeds.md) (foster father)
 
 ### Rivals
 - Charles 'Speedy' Siegal

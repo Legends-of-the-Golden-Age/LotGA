@@ -1,3 +1,6 @@
+---
+type: pc
+---
 <!--
 type: player-character
 created-by:
@@ -15,7 +18,7 @@ A super-scientist with the ability to project "cold energy" from his body.  He h
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](/npcs/Lawrence_Alexander_Williams.md#Associates)
+- [Associates](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -90,7 +93,7 @@ When working on his first cold engine, something went horribly wrong and the eng
 - [Double Time!](player_characters/Double_Time.md)
 - [Faceless](player_characters/Faceless.md)
 - [Shard](player_characters/Shard.md)
-- [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md)
 - [Zoltan](Zoltan.md)
 
 ### Associates
@@ -116,7 +119,7 @@ When working on his first cold engine, something went horribly wrong and the eng
 - Officer Fitz
 - Officer Layne
 - Officer Smitty
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md)
 - the God of Storms
 - Thomas 'Thunderhead' Russ
 - U.S. Military

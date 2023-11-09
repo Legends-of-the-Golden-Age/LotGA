@@ -1,3 +1,6 @@
+---
+type: organization
+---
 # New York University
 
 [wikipedia](https://en.wikipedia.org/wiki/New_York_University)

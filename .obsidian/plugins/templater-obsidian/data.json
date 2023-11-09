@@ -41,6 +41,10 @@
     {
       "folder": "story_arcs",
       "template": "templates/story_arc.md"
+    },
+    {
+      "folder": "sessions",
+      "template": "templates/session-log.md"
     }
   ],
   "syntax_highlighting": true,

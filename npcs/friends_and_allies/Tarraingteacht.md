@@ -1,3 +1,6 @@
+---
+type: npc
+---
 <!--
 type: player-character
 created-by:
@@ -6,7 +9,7 @@ created-by:
 
 A British secret agents who gained magnetic powers while visiting the [Orkney Islands](https://en.wikipedia.org/wiki/Orkney).
 
-![title](../images/Tarraingteacht.png)
+![title](../../images/Tarraingteacht.png)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
@@ -15,7 +18,7 @@ A British secret agents who gained magnetic powers while visiting the [Orkney Is
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](../npcs/Lawrence_Alexander_Williams.md#Associates)
+- [Associates](fbi/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -68,11 +71,11 @@ Fluent in Russian, German, Spanish and French
 - [Faceless](/player_characters/Faceless.md)
 - [Professor Polar](/player_characters/Professor_Polar.md)
 - [Shard](/player_characters/Shard.md)
-- [Sir Mansel of Muddlescrombe](/npcs/Mansel_Muddlescrombe.md)
+- [Sir Mansel of Muddlescrombe](government/Mansel_Muddlescrombe.md)
 
 ### Associates
 - Guardians of Freedom
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](fbi/Lawrence_Alexander_Williams.md)
 
 ### Birthplace
 Manchester, England

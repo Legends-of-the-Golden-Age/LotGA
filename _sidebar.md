@@ -12,12 +12,20 @@
 	- [Vanguard Headquarters](locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md)
 - Non-Player Characters
 	- Allies
-		- [Ka-Pow](npcs/Ka-Pow.md)
-		- [Madam Dannica](npcs/Madam_Dannica.md)
-		- [Tarraingteacht](npcs/Tarraingteacht.md)
+		- [Ka-Pow](npcs/friends_and_allies/Ka-Pow.md)
+		- [Lt. Dan Davis](npcs/friends_and_allies/military/Dan_Davis.md)
+		- [Madam Dannica](npcs/friends_and_allies/Madam_Dannica.md)
+		- [Tarraingteacht](npcs/friends_and_allies/Tarraingteacht.md)
 	- Enemies
+		- [Martians](npcs/foes/martians/Martian.md)
 - Organizations
 	- [British_SOE](organizations/British_Government/British_SOE.md)
 	- [FBI](organizations/US_Government/FBI.md)
 	- [Those Who See](organizations/Those_Who_See.md)
 	- [Vanguard](/organizations/Vanguard.md)
+- Sessions
+	- War of the Worlds
+		- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- Headlines
+	- [October 1938](headlines/Headlines_10_1938.md)
+	- [November 1938](headlines/Headlines_11_1938.md)

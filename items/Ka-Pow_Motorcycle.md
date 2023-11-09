@@ -1,3 +1,6 @@
+---
+type: item
+---
 # Ka-Pow's Customized Indian Chief
 
 A supped-up Indian Chief.
@@ -7,7 +10,7 @@ A supped-up Indian Chief.
 Faster and tougher than normal and fitted with a pair of pontoon screws to allow water traversal.
 
 ## Owner
-[Ka-Pow](/npcs/Ka-Pow.md)
+[Ka-Pow](../npcs/friends_and_allies/Ka-Pow.md)
 
 ## Appearances
 

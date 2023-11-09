@@ -1,3 +1,6 @@
+---
+type: pc
+---
 <!--
 type: player-character
 created-by:
@@ -15,7 +18,7 @@ An archaeologist who discovered several magical relics in the area that was once
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](/npcs/Lawrence_Alexander_Williams.md#Associates)
+- [Associates](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -79,7 +82,7 @@ Fluency: Arabic (classical), Atlantean, Egyptian (ancient), Persian (old)
 - [Faceless](player_characters/Faceless.md)
 - [Professor_Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
-- [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md)
 - The God of Wisdom
 - [Zoltan](Zoltan.md)
 
@@ -109,7 +112,7 @@ Fluency: Arabic (classical), Atlantean, Egyptian (ancient), Persian (old)
 - Officer Layne
 - Officer Smitty
 - Royal Canadian Mounted Police
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md)
 - the God of Storms
 - Thomas 'Thunderhead' Russ
 - U.S. Military
@@ -152,7 +155,7 @@ An abandoned church in [Queens, NY].
 - [Vanguard](/organizations/Vanguard.md)
 
 ### Relations
-- [Marie Delaunay](/npcs/Marie_Delaunay.md) (wife, deceased)
+- [Marie Delaunay](../npcs/family/Marie_Delaunay.md) (wife, deceased)
 
 ### Rivals
 - [Zoltan the Magnificent] (friendly)

@@ -1,3 +1,6 @@
+---
+type: item
+---
 # Atlantean Crystal
 
 brief

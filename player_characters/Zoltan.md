@@ -1,3 +1,6 @@
+---
+type: pc
+---
 <!--
 type: player-character
 created-by:
@@ -15,7 +18,7 @@ A stage magician from the old world, he fled Europe after an incident in Nazi Ge
 - [Powers](#Powers)
 - [Notes](#Notes)
 - [Allies](#Allies)
-- [Associates](../npcs/Lawrence_Alexander_Williams.md#Associates)
+- [Associates](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md#Associates)
 - [Birthplace](#Birthplace)
 - [Enemies](#Enemies)
 - [Home](#Home)
@@ -81,9 +84,9 @@ Fluency: Roma, Romanian, German, Slovak, Hebrew
 - [Amon-Ra](Amon-Ra.md)
 - [Diamondback](Diamondback.md)
 - [Double-Time](Double_Time.md)
-- [Elan Klempar](/npcs/Elan_Klempar.md) (deceased, mentor)
+- [Elan Klempar](../npcs/friends_and_allies/Elan_Klempar.md) (deceased, mentor)
 - [Faceless](Faceless.md)
-- [Madam Dannica](/npcs/Madam_Dannica.md) (paramour, student)
+- [Madam Dannica](../npcs/friends_and_allies/Madam_Dannica.md) (paramour, student)
 - [Professor Polar](Professor_Polar.md)
 - [Shard](Shard.md)
 - [Those Who See](/organizations/Those_Who_See.md)
@@ -114,7 +117,7 @@ Fluency: Roma, Romanian, German, Slovak, Hebrew
 - Officer Layne
 - Officer Smitty
 - Royal Canadian Mounted Police
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md)
 - the God of Storms
 - Thomas 'Thunderhead' Russ
 - [Those Who See](/organizations/Those_Who_See.md)

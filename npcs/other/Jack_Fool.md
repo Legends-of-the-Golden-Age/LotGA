@@ -1,8 +1,14 @@
+---
+type: npc
+---
 <!--
 type: non-player-character
 created-by:
 -->
-brief description
+
+# Jack Fool
+
+A clown-themed myster-man that's been active in [New York City](locations/New_York_State/New_York_City/New_York_City.md) since the 20s.
 
 ## AKA:
 
@@ -13,8 +19,7 @@ Hair: |
 Eyes: | 
 Height: |
 Weight: |
-Gender: | Female
-Born: | 1895
+Gender: |
 Notes: |
 ![picture](../images/image.jpg)
 
@@ -37,18 +42,12 @@ Notes: |
 ### Enemies
 
 ### Home
-[Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 
 ### Property
-[Antonova Estate](../locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
 
 ### Memberships
 
 ### Relations
-- [Dominic_Antonova](/npcs/Dominic_Antonova.md) (husband)
-- [Diamondback](/player_characters/Diamondback.md) (daughter)
-- Shard (daughter)
-- [Victor Antonova](/npcs/Victor_Antonova.md) (son)
 
 ### Rivals
 

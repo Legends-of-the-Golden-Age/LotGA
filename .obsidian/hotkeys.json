@@ -2,6 +2,7 @@
   "obsidian-sort-and-permute-lines:sort-alphabetically": [
     {
       "modifiers": [
+        "Alt",
         "Mod",
         "Shift"
       ],

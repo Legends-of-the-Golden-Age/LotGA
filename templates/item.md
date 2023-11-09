@@ -1,3 +1,6 @@
+---
+type: item
+---
 # Item
 
 brief

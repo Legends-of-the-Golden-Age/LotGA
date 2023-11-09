@@ -1,3 +1,6 @@
+---
+type: npc
+---
 <!--
 type: non-player-character
 created-by:
@@ -19,7 +22,7 @@ Weight: | 190lbs
 Gender: | male
 Notes: |
 
-![picture](../images/Sir_Mansel.jpg)
+![picture](../../../images/Sir_Mansel.jpg)
 
 ## Background / Origin
 
@@ -33,7 +36,7 @@ Notes: |
 Fluencies: French, German
 
 ### Allies
-- [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Tarraingteacht](Tarraingteacht.md)
 
 ### Associates
 

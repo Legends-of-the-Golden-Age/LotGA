@@ -1,3 +1,6 @@
+---
+type: npc
+---
 <!--
 type: non-player-character
 created-by:
@@ -20,7 +23,7 @@ Weight: | 135lbs
 Gender: | female
 Notes: |
 
-![picture](../images/Ka-Pow.jpg)
+![picture](../../images/Ka-Pow.jpg)
 
 ## Background / Origin
 Raised as part of the working class, Ka-Pow was her father's darling.  She spent as much time in his automotive shop as she did in any other pursuit.  Her tomboy attitude, unfortunately, resulted in much teasing and bullying from her classmates.  As she got older, her father's best friend -- a skilled if unlucky professional boxer, taught her how to defend herself.  She grew strong, stronger than anyone she knew; stronger, even, than the professional fighters she practiced against.  Later, she would learn that her mother had been exposed to a strange meteorite while pregnant.  Unfortunately, it likely resulted in her mother's death during childbirth.  It may also be the source of her practically superhuman strength, speed and resilience.  Since her mentor was crippled by the Colletti Mob for refusing to take a dive, she has dedicated herself to wiping out organized crime.

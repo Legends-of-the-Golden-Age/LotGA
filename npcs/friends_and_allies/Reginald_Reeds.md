@@ -1,3 +1,6 @@
+---
+type: npc
+---
 <!--
 type: non-player-character
 created-by:
@@ -35,7 +38,7 @@ Notes: |
 - Nazis
 
 ### Home
-[New York City](../locations/New_York_State/New_York_City/New_York_City.md)
+[New York City](../../locations/New_York_State/New_York_City/New_York_City.md)
 
 ### Property
 

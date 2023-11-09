@@ -1,3 +1,6 @@
+---
+type: story-arc
+---
 # Title
 
 description

@@ -1,3 +1,6 @@
+---
+type: location
+---
 # Staten Island, NY
 
 description
@@ -9,9 +12,9 @@ description
 
 ## Residents
 - [Diamondback](/player_characters/Diamondback.md)
-- [Dominic Antonova](/npcs/Dominic_Antonova.md)
-- [Lydia Antonova](/npcs/Lydia_Antonova.md)
-- [Victor Antonova](/npcs/Victor_Antonova.md)
+- [Dominic Antonova](../../../../npcs/family/Dominic_Antonova.md)
+- [Lydia Antonova](../../../../npcs/family/Lydia_Antonova.md)
+- [Victor Antonova](../../../../npcs/family/Victor_Antonova.md)
 - Shard
 
 ## Sub-Locations

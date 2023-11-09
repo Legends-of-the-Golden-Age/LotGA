@@ -1,3 +1,6 @@
+---
+type: item
+---
 # Arizona Crystal
 
 ## AKA:

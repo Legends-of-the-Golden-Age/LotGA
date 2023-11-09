@@ -1,3 +1,6 @@
+---
+type: pc
+---
 <!--
 type: player-character
 created-by:
@@ -71,8 +74,8 @@ Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Mic
 - [FBI](organizations/US_Government/FBI.md)
 - [Professor Polar](player_characters/Professor_Polar.md)
 - [Shard](player_characters/Shard.md)
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
-- [Tarraingteacht](/npcs/Tarraingteacht.md)
+- [Special Agent Lawrence Alexander Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md)
+- [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md)
 - [Zoltan](Zoltan.md)
 
 ### Associates
@@ -97,7 +100,7 @@ Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Mic
 - Officer Fitz
 - Officer Layne
 - Officer Smitty
-- [Special Agent Lawrence Alexander Williams](/npcs/Lawrence_Alexander_Williams.md)
+- [Special Agent Lawrence Alexander Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md)
 - the God of Storms
 - Thomas 'Thunderhead' Russ
 - U.S. Military
@@ -138,7 +141,7 @@ Michael quickly saw Lawrence as a father and a mentor and, at the age of 16, Mic
 - [FBI](organizations/US_Government/FBI.md)
 
 ### Relations
-Special Agent [Lawrence_Alexander_Williams](/npcs/Lawrence_Alexander_Williams.md) (adoptive father)
+Special Agent [Lawrence_Alexander_Williams](../npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md) (adoptive father)
 
 ### Rivals
 

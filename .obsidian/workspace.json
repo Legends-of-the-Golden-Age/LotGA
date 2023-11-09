@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "233b36077e5a0c0b",
+            "id": "3ca15c71ed9edee0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizations/Vanguard.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e5bd4cb87a89145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "player_characters/Zoltan.md",
+                "file": "npcs/foes/martians/Martian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "npcs/foes/martians/Martian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizations/Vanguard.md",
+                "file": "npcs/foes/martians/Martian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizations/Vanguard.md"
+                "file": "npcs/foes/martians/Martian.md"
               }
             }
           }
@@ -162,53 +149,52 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "233b36077e5a0c0b",
+  "active": "3ca15c71ed9edee0",
   "lastOpenFiles": [
-    "npcs/Ka-Pow.md",
+    "npcs/friends_and_allies/military/Dan_Davis.md",
+    "images/Martian.jpg",
     "_sidebar.md",
+    "story_arcs/War_of_the_Worlds.md",
+    "items/Black_Smoke_Launcher.md",
+    "organizations/German_Government/Schutzstaffel.md",
+    "organizations/news/Los_Angeles_Times.md",
+    "organizations/news/Chicago_Sun.md",
+    "organizations/US_Government/US_National_Guard.md",
+    "organizations/news/The_Frederick_Post.md",
+    "organizations/news/New_York_Times.md",
+    "organizations/news/Detroit_Free_Press.md",
+    "organizations/German_Government/Nazi_Party.md",
+    "npcs/other/Jack_Fool.md",
+    "npcs/friends_and_allies/Benny_Martin.md",
+    "npcs/foes/martians/Martian.md",
+    "locations/New Jersey/New_Brunswick.md",
+    "locations/New Jersey/Grovers_Mill.md",
+    "items/Martian_Tripod.md",
+    "items/Martian_Landing_Pod.md",
+    "items/Martian_Heat_Ray.md",
     "items/Ka-Pow_Motorcycle.md",
-    "player_characters/Zoltan.md",
-    "pdf/Ka-Pow_Motorcycle.pdf",
+    "images/Martian_Heat_Ray.jpg",
+    "sessions/Issue-001.md",
+    "headlines/Headlines_10_1938.md",
+    "headlines/Headlines_11_1938.md",
+    "organizations/news",
+    "organizations/German_Government",
+    "organizations/Guardians_of_Freedom.md",
+    "npcs/friends_and_allies/government",
+    "npcs/friends_and_allies/military",
+    "npcs/friends_and_allies/fbi",
+    "npcs/foes/martians",
+    "npcs/other",
+    "npcs/foes",
+    "npcs/family",
+    "npcs/friends_and_allies",
     "images/Ka-Pow_motorcycle.jpg",
-    "pdf/Ka-Pow.pdf",
     "images/Ka-Pow.jpg",
-    "player_characters/Shard.md",
-    "player_characters/Professor_Polar.md",
-    "player_characters/Faceless.md",
-    "player_characters/Double_Time.md",
-    "player_characters/Diamondback.md",
-    "player_characters/Amon-Ra.md",
-    "pdf/Amon-Ra.pdf",
-    "organizations/Vanguard.md",
-    "organizations/Those_Who_See.md",
-    "npcs/Madam_Dannica.md",
-    "npcs/Elan_Klempar.md",
-    "locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md",
-    "locations/New_York_State/New_York_City/The_Bronx/The_Bronx_NY.md",
-    "organizations/Antonova_Corporation.md",
-    "pdf/VanguardBase.pdf",
-    "pdf/SpeakeasyHideout.pdf",
-    "locations/New_York_State/New_York_City/Brooklyn",
-    "Untitled.md",
     "images/Tarraingteacht.png",
-    "pdf/Zoltan.pdf",
     "images/Zoltan.jpg",
-    "npcs/Tarraingteacht.md",
-    "npcs/Mansel_Muddlescrombe.md",
     "images/Sir_Mansel.jpg",
-    "organizations/British_Government/British_SOE.md",
-    "organizations/British_Government",
-    "pdf/Tarraingteacht.pdf",
     "pdf/Terraiingteacht.png",
-    "locations/New_York_State/New_York_City/Staten_Island/Shards_Laboratory.md",
     "images/AmonRa.jpg",
-    "pdf/Shard_Lab.pdf",
-    "images/Shard_Lab.jpg",
-    "images/Shard.png",
-    "organizations/New_York_University.md",
-    "locations/New_York_State/New_York_City/Manhattan/Manhattan.md",
-    "images/Prof_Polar.jpg",
-    "npcs/Lawrence_Alexander_Williams.md",
-    "organizations/US_Government/FBI.md"
+    "images/Shard_Lab.jpg"
   ]
 }

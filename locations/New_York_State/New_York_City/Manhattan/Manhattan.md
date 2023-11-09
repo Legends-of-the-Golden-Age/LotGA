@@ -1,3 +1,6 @@
+---
+type: location
+---
 # Manhattan
 
 description
