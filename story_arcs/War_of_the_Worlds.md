@@ -21,7 +21,7 @@ In November of 1938, aliens from Mars invaded the earth.  As the military did no
 - [Vanguard](organizations/Vanguard.md)
 
 ## Locations
-- [Grover's Mill, NJ](locations/New%20Jersey/Grovers_Mill.md)
+- [Grover's Mill, NJ](locations/New_Jersey/Grovers_Mill.md)
 
 ## Items
 - [Martian Heat Ray](items/Martian_Heat_Ray.md)
@@ -33,3 +33,4 @@ In November of 1938, aliens from Mars invaded the earth.  As the military did no
 
 ## Sessions
 - [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)

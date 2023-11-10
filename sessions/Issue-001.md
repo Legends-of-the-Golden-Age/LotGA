@@ -97,7 +97,7 @@ In the aftermath, just as Lt. Davis is thanking the heroes for their help, he re
 
 ## Locations
 - [Antonova_Estate](/locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
-- [Grovers_Mill](/locations/New%20Jersey/Grovers_Mill.md)
+- [Grovers_Mill](locations/New_Jersey/Grovers_Mill.md)
 - [New_York_City](/locations/New_York_State/New_York_City/New_York_City.md)
 - [Staten_Island](/locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md)
 
@@ -114,3 +114,4 @@ In the aftermath, just as Lt. Davis is thanking the heroes for their help, he re
 none
 
 ## Next Issue
+[Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)

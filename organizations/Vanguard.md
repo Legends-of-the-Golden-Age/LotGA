@@ -14,7 +14,8 @@ The premier super team of [New York City](../locations/New_York_State/New_York_C
 - [Zoltan](/player_characters/Zoltan.md)
 
 ## Adventures
-
+- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 ## Allies
 - [Ka-Pow](../npcs/friends_and_allies/Ka-Pow.md) (former member)
@@ -22,7 +23,7 @@ The premier super team of [New York City](../locations/New_York_State/New_York_C
 - [Tarraingteacht](../npcs/friends_and_allies/Tarraingteacht.md) (former member)
 
 ## Enemies
-
+- [Martians](npcs/foes/martians/Martian.md)
 
 ## Headquarters
 [Vanguard_Headquarters](/locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md)

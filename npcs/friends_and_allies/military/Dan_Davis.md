@@ -61,7 +61,8 @@ As Lt. Liberty, Dan Davis is the spokesperson and field commander of Liberty Squ
 ### Visited
 
 ## Adventures
-Issue 01 - Invasion (War of the Worlds Part 1)
+- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 
 <!-- GM Notes

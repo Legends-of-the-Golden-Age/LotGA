@@ -12,6 +12,7 @@
 	- [Vanguard Headquarters](locations/New_York_State/New_York_City/Brooklyn/Vanguard_Headquarters.md)
 - Non-Player Characters
 	- Allies
+		- [God of Wisdom](npcs/other/God_of_Wisdom.md)
 		- [Ka-Pow](npcs/friends_and_allies/Ka-Pow.md)
 		- [Lt. Dan Davis](npcs/friends_and_allies/military/Dan_Davis.md)
 		- [Madam Dannica](npcs/friends_and_allies/Madam_Dannica.md)
@@ -26,6 +27,7 @@
 - Sessions
 	- War of the Worlds
 		- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+		- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 - Headlines
 	- [October 1938](headlines/Headlines_10_1938.md)
 	- [November 1938](headlines/Headlines_11_1938.md)

@@ -65,11 +65,12 @@ They make use of [massive tripodal tanks](/items/Martian_Tripod.md) (over 80 fee
 ### Rivals
 
 ### Visited
-- [Grovers Mill](/locations/New%20Jersey/Grovers_Mill.md)
-- [New Brunswick](/locations/New%20Jersey/New_Brunswick.md)
+- [Grovers Mill](locations/New_Jersey/Grovers_Mill.md)
+- [New Brunswick](locations/New_Jersey/New_Brunswick.md)
 
 ## Adventures
 - [Issue 001 -- Invasion (War of the Worlds Part 1)](/sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 
 <!-- GM Notes

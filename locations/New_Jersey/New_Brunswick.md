@@ -14,6 +14,7 @@ type: location
 
 
 ## Appearances
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 ## Visited By
 - [Vanguard](/organizations/Vanguard.md)

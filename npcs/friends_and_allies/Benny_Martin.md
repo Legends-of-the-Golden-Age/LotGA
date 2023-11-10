@@ -58,10 +58,11 @@ His [taxi cab](https://en.wikipedia.org/wiki/Checker_Taxi#/media/File:1933_Check
 
 ### Visited
 - [New_York_City](../../locations/New_York_State/New_York_City/New_York_City.md)
-- [Grovers_Mill](../../locations/New%20Jersey/Grovers_Mill.md)
+- [Grovers_Mill](locations/New_Jersey/Grovers_Mill.md)
 
 ## Adventures
-[Issue 001 - Invasion (War of the Worlds Part 1)](../../sessions/Issue-001.md)
+- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 <!-- GM Notes
 [Hero Designer File](<>)

@@ -10,6 +10,7 @@ type: organization
 
 ## Adventures
 - [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 ## Allies
 - [Guardians_of_Freedom](organizations/Guardians_of_Freedom.md)

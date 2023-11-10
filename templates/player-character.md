@@ -9,6 +9,7 @@ created-by:
 
 brief description
 ![title](../images/image.jpg)
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/character.pdf)
 
 - [AKA](#AKA)
 - [Appearance](#Appearance)
@@ -27,7 +28,6 @@ brief description
 - [Rivals](#Rivals)
 - [Visited](#Visited)
 - [Adventures](#Adventures)
-- [Character Sheet](#Character%20Sheet)
 
 ## AKA:
 
@@ -74,9 +74,6 @@ Notes: |
 
 ## Adventures
 Issue 01 - Invasion (War of the Worlds Part 1)
-
-## Character Sheet
-[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/character.pdf)
 
 <!-- GM Notes
 Things in here don't show up in normal viewing mode.

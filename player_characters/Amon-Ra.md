@@ -11,6 +11,8 @@ An archaeologist who discovered several magical relics in the area that was once
 
 ![Amon-Ra](../images/AmonRa.jpg)
 
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Amon-Ra.pdf)
+
 - [AKA](#AKA)
 - [Appearance](#Appearance)
 - [Personality](#Personality)
@@ -28,7 +30,6 @@ An archaeologist who discovered several magical relics in the area that was once
 - [Rivals](#Rivals)
 - [Visited](#Visited)
 - [Adventures](#Adventures)
-- [Character Sheet](#Character%20Sheet)
 
 ## AKA:
 Franklin Kinsey, Professor Kinsey
@@ -165,10 +166,8 @@ An abandoned church in [Queens, NY].
 ### Visited
 
 ## Adventures
-Issue 01 - Invasion (War of the Worlds Part 1)
-
-## Character Sheet
-[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Amon-Ra.pdf)
+- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 <!-- GM Notes
 Things in here don't show up in normal viewing mode.

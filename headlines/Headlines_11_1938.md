@@ -8,7 +8,7 @@ type: headline
 **[New York Times](/organizations/news/New_York_Times.md)**
 . . .strange tripodal machines. . .”  “. . .[National Guard](/organizations/US_Government/US_National_Guard.md) troops. . .”  “. . .costumed individuals. . .”
 
-### [New Brunswick](/locations/New%20Jersey/New_Brunswick.md) Attacked
+### [New Brunswick](locations/New_Jersey/New_Brunswick.md) Attacked
 **The New York Times**
 “. . .black smoke. . .”  “. . .unknown number dead and wounded. . .”  “. . .fires under control. . .”
 

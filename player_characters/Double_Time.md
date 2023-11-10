@@ -11,6 +11,8 @@ As a young lab assistant, Ben, was caught in a lab accident during a strange exp
 
 ![Double-Time](../images/Double-Time.jpg)
 
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Double-Time.pdf)
+
 - [AKA](#AKA)
 - [Appearance](#Appearance)
 - [Personality](#Personality)
@@ -28,7 +30,6 @@ As a young lab assistant, Ben, was caught in a lab accident during a strange exp
 - [Rivals](#Rivals)
 - [Visited](#Visited)
 - [Adventures](#Adventures)
-- [Character Sheet](#Character%20Sheet)
 
 ## AKA:
 Ben Walker
@@ -146,10 +147,8 @@ When Ben woke from the coma, everything around him seemed to have slowed down. H
 ### Visited
 
 ## Adventures
-Issue 01 - Invasion (War of the Worlds Part 1)
-
-## Character Sheet
-[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Double-Time.pdf)
+- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 <!-- GM Notes
 Things in here don't show up in normal viewing mode.

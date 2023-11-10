@@ -11,6 +11,8 @@ Lilah, born into the affluent Antonova family, was not content to simply be one 
 
 ![title](../images/Shard.png)
 
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Shard.pdf)
+
 - [AKA](#AKA)
 - [Appearance](#Appearance)
 - [Personality](#Personality)
@@ -28,7 +30,6 @@ Lilah, born into the affluent Antonova family, was not content to simply be one 
 - [Rivals](#Rivals)
 - [Visited](#Visited)
 - [Adventures](#Adventures)
-- [Character Sheet](#Character%20Sheet)
 
 ## AKA:
 Lilah Antonova
@@ -165,10 +166,8 @@ Several guests at the party were injured, but nobody was killed. The worst of th
 ### Visited
 
 ## Adventures
-Issue 01 - Invasion (War of the Worlds Part 1)
-
-## Character Sheet
-[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Shard.pdf)
+- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 <!-- GM Notes
 Things in here don't show up in normal viewing mode.
