@@ -9,6 +9,7 @@ created-by:
 # The Emissary
 
 Strange robotic visitor who provided a key component to defeating the Martians.
+
 ![picture](../images/RetroRobot.jpg)
 
 ## Appearance
