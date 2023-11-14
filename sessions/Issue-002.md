@@ -124,3 +124,4 @@ As the group makes their way around the outskirts of the city, they eventually c
 [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
 
 ## Next Issue
+[Issue-003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)

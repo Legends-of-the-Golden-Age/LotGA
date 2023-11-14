@@ -8,9 +8,6 @@ description
 ## Members
 
 
-## Adventures
-
-
 ## Allies
 
 
@@ -21,3 +18,6 @@ description
 
 
 ## Other
+
+
+## Adventures

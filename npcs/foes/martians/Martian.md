@@ -71,7 +71,7 @@ They make use of [massive tripodal tanks](/items/Martian_Tripod.md) (over 80 fee
 ## Adventures
 - [Issue 001 -- Invasion (War of the Worlds Part 1)](/sessions/Issue-001.md)
 - [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
-
+- [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)
 
 <!-- GM Notes
 Not actually from Mars, but they did use it as a forward base for their invasion.  They are actually from Sirius.

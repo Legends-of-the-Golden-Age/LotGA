@@ -10,6 +10,8 @@ created-by:
 
 brief description
 
+![picture](../images/image.jpg)
+
 ## AKA:
 
 ## Appearance
@@ -21,7 +23,6 @@ Height: |
 Weight: |
 Gender: |
 Notes: |
-![picture](../images/image.jpg)
 
 ## Background / Origin
 
@@ -58,6 +59,5 @@ Issue 01 - Invasion (War of the Worlds Part 1)
 
 
 <!-- GM Notes
-[Hero Designer File](<>)
-[pdf](<>)
+[pdf](https://legends-of-the-golden-age.github.io/LotGA/pdf/sheet.pdf)
 -->

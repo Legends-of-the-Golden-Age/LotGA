@@ -13,10 +13,10 @@ description
 ## Residents
 
 
-## Appearances
-
-
 ## Visited By
 
 
 ## Other
+
+
+## Appearances

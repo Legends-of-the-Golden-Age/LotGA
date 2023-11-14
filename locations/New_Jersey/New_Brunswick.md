@@ -12,12 +12,13 @@ type: location
 
 ## Residents
 
-
-## Appearances
-- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
-
 ## Visited By
 - [Vanguard](/organizations/Vanguard.md)
 - [U.S. National Guard](/organizations/US_Government/US_National_Guard.md)
+- [The Emissary](npcs/other/The_Emissary.md)
 
 ## Other
+
+## Appearances
+- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
+- [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)

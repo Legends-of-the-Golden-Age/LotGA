@@ -26,28 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Martian_Tripod.md",
-                "mode": "source",
+                "file": "sessions/Issue-003.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "a9b316d13908d0bc",
+            "id": "3c1b32a9c31c3b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/Issue-002.md",
-                "mode": "source",
+                "file": "npcs/other/The_Emissary.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items/Martian_Tripod.md",
+                "file": "npcs/other/The_Emissary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "items/Martian_Tripod.md",
+                "file": "npcs/other/The_Emissary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "items/Martian_Tripod.md"
+                "file": "npcs/other/The_Emissary.md"
               }
             }
           }
@@ -176,34 +176,37 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c0255dcf2fa11ffd",
+  "active": "3c1b32a9c31c3b0c",
   "lastOpenFiles": [
-    "locations/New_Jersey/Sandy_Hills.md",
     "_sidebar.md",
-    "sessions/Issue-002.md",
-    "npcs/other/God_of_Wisdom.md",
-    "templates/NPC.md",
-    "templates/player-character.md",
-    "player_characters/Faceless.md",
-    "npcs/friends_and_allies/Ka-Pow.md",
-    "player_characters/Professor_Polar.md",
-    "player_characters/Shard.md",
-    "player_characters/Zoltan.md",
-    "player_characters/Double_Time.md",
-    "player_characters/Diamondback.md",
     "player_characters/Amon-Ra.md",
-    "npcs/friends_and_allies/fbi/Lawrence_Alexander_Williams.md",
-    "sessions/Issue-001.md",
-    "items/Martian_Heat_Ray.md",
-    "items/Martian_Tripod.md",
-    "locations/New_Jersey/New_Brunswick.md",
-    "locations/New_Jersey/Grovers_Mill.md",
-    "organizations/US_Government/US_National_Guard.md",
+    "sessions/Issue-003.md",
+    "templates/NPC.md",
+    "npcs/other/The_Emissary.md",
     "npcs/foes/martians/Martian.md",
     "npcs/friends_and_allies/military/Dan_Davis.md",
-    "npcs/friends_and_allies/Benny_Martin.md",
-    "story_arcs/War_of_the_Worlds.md",
+    "organizations/US_Government/US_National_Guard.md",
+    "templates/organization.md",
     "organizations/Vanguard.md",
+    "templates/location.md",
+    "locations/New_Jersey/New_Brunswick.md",
+    "items/Martian_Tripod.md",
+    "items/Martian_Heat_Ray.md",
+    "items/Black_Smoke_Launcher.md",
+    "player_characters/Zoltan.md",
+    "player_characters/Shard.md",
+    "player_characters/Professor_Polar.md",
+    "player_characters/Faceless.md",
+    "player_characters/Double_Time.md",
+    "player_characters/Diamondback.md",
+    "pdf/Emmissary K0-N6.pdf",
+    "images/RetroRobot.jpg",
+    "images/Emmissary K0-N6.png",
+    "sessions/Issue-002.md",
+    "locations/New_Jersey/Sandy_Hills.md",
+    "npcs/other/God_of_Wisdom.md",
+    "templates/player-character.md",
+    "npcs/friends_and_allies/Ka-Pow.md",
     "misc",
     "images/Martian.jpg",
     "images/Martian_Heat_Ray.jpg",
@@ -215,14 +218,11 @@
     "npcs/foes/martians",
     "npcs/other",
     "npcs/foes",
-    "npcs/family",
     "images/Ka-Pow_motorcycle.jpg",
     "images/Ka-Pow.jpg",
     "images/Tarraingteacht.png",
     "images/Zoltan.jpg",
     "images/Sir_Mansel.jpg",
-    "pdf/Terraiingteacht.png",
-    "images/AmonRa.jpg",
-    "images/Shard_Lab.jpg"
+    "pdf/Terraiingteacht.png"
   ]
 }

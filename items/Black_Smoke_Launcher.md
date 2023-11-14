@@ -14,7 +14,7 @@ The magazine holds 7 rounds.
 The gas eventually condenses down to an inert fine crystalline powder (takes roughly 24 hours).
 
 ## Appearances
-
+- [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)
 
 <!--
 Secrets

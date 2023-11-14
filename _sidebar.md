@@ -19,6 +19,8 @@
 		- [Tarraingteacht](npcs/friends_and_allies/Tarraingteacht.md)
 	- Enemies
 		- [Martians](npcs/foes/martians/Martian.md)
+	- Uncertain
+		- [The Emissary](npcs/other/The_Emissary.md)
 - Organizations
 	- [British_SOE](organizations/British_Government/British_SOE.md)
 	- [FBI](organizations/US_Government/FBI.md)
@@ -28,6 +30,7 @@
 	- War of the Worlds
 		- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
 		- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
+		- [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)
 - Headlines
 	- [October 1938](headlines/Headlines_10_1938.md)
 	- [November 1938](headlines/Headlines_11_1938.md)

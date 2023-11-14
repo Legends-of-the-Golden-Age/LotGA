@@ -19,6 +19,7 @@ It has been noted that the crystal view-port on the front of the hull is not as 
 ## Appearances
 - [Issue 001 -- Invasion (War of the Worlds Part 1)](/sessions/Issue-001.md)
 - [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
+- [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)
 
 <!--
 Various militaries have a few intact versions of these war machines and are attempting to reverse-engineer them.
