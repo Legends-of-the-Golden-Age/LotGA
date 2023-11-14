@@ -3,7 +3,7 @@ type: session
 ---
 # Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)
 
-Vanguard battles a trio of [Martian Tripod](items/Martian_Tripod.md) in the city of [New Brunswick](locations/New_Jersey/New_Brunswick.md), stalling the Martian advance on [New York City](locations/New_York_State/New_York_City/New_York_City.md).
+Vanguard battles a trio of [Martian Tripods](items/Martian_Tripod.md) in the city of [New Brunswick](locations/New_Jersey/New_Brunswick.md), stalling the Martian advance on [New York City](locations/New_York_State/New_York_City/New_York_City.md).
 
 - [Story Arc](#Story%20Arc)
 - [Campaign Dates](#Campaign%20Dates)
