@@ -13,11 +13,11 @@ Converted from the old [Antonova_Estate](locations/New_York_State/New_York_City/
 ## Residents
 [Shard](player_characters/Shard.md)
 
-## Appearances
-
-
 ## Visited By
 
 
 ## Other
 [Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Shard_Lab.pdf)
+
+## Appearances
+- [Issue 004 -- A Lull in the Storm (War of the Worlds Part 4)](sessions/Issue-004.md)

@@ -5,7 +5,7 @@ type: npc
 type: non-player-character
 created-by:
 -->
-Brother of [Diamondback](/player_characters/Diamondback.md).
+Father of [Diamondback](/player_characters/Diamondback.md).
 
 ## AKA:
 
@@ -29,6 +29,7 @@ Notes: |
 <sub><sup> * Known to the general public</sup></sub>
 
 ## Notes
+Smokes a pipe.
 
 ### Allies
 
@@ -59,8 +60,7 @@ Notes: |
 ### Visited
 
 ## Adventures
-Issue 01 - Invasion (War of the Worlds Part 1)
-
+- [Issue 004 -- A Lull in the Storm (War of the Worlds Part 4)](sessions/Issue-004.md)
 
 <!-- GM Notes
 [Hero Designer File](<>)

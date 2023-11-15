@@ -114,11 +114,11 @@ As the group makes their way around the outskirts of the city, they eventually c
 - [Sandy Hills](locations/New_Jersey/Sandy_Hills.md)
 
 ## Items
-- [Martian_Tripod](items/Martian_Tripod.md)
-- [Martian_Heat_Ray](items/Martian_Heat_Ray.md)
+- [Martian Tripod](items/Martian_Tripod.md)
+- [Martian Heat Ray](items/Martian_Heat_Ray.md)
 
 ## Related
-- [Headlines_11_1938](headlines/Headlines_11_1938.md)
+- [Headlines Nov 1938](headlines/Headlines_11_1938.md)
 
 ## Previous Issue
 [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)

@@ -12,6 +12,7 @@ A British secret agents who gained magnetic powers while visiting the [Orkney Is
 ![title](../../images/Tarraingteacht.png)
 
 - [AKA](#AKA)
+- [Character Sheet](#Character%20Sheet)
 - [Appearance](#Appearance)
 - [Personality](#Personality)
 - [Origin](#Origin)
@@ -28,10 +29,12 @@ A British secret agents who gained magnetic powers while visiting the [Orkney Is
 - [Rivals](#Rivals)
 - [Visited](#Visited)
 - [Adventures](#Adventures)
-- [Character Sheet](#Character%20Sheet)
 
 ## AKA:
 Aoife Stewart, Alice Stevens
+
+## Character Sheet
+[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Tarraingteacht.pdf)
 
 ## Appearance 
 Trait | Description
@@ -101,12 +104,16 @@ Manchester, England
 ### Rivals
 
 ### Visited
+- [Antonova Estate](/locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
+- [Grover's Mill](locations/New_Jersey/Grovers_Mill.md)
+- [Manhattan](locations/New_York_State/New_York_City/Manhattan/Manhattan.md)
+- [New Brunswick](locations/New_Jersey/New_Brunswick.md)
+- [New York City](/locations/New_York_State/New_York_City/New_York_City.md)
+- [Staten Island](/locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md)
 
 ## Adventures
-Issue 01 - Invasion (War of the Worlds Part 1)
-
-## Character Sheet
-[Character Sheet](https://legends-of-the-golden-age.github.io/LotGA/pdf/Tarraingteacht.pdf)
+- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
+- [Issue 004 -- A Lull in the Storm](sessions/Issue-004.md)
 
 <!-- GM Notes
 Things in here don't show up in normal viewing mode.

@@ -112,9 +112,10 @@ Prof Polar, Ka-Pow! and Diamondback detach the black smoke launcher from the tri
 - [Martian Tripod](items/Martian_Tripod.md)
 
 ## Related
-[Headlines 11 1938](headlines/Headlines_11_1938.md)
+[Headlines Nov 1938](headlines/Headlines_11_1938.md)
 
 ## Previous Issue
 [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 
 ## Next Issue
+[Issue 004 -- A Lull in the Storm](sessions/Issue-004.md)

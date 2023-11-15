@@ -15,6 +15,7 @@ The gas eventually condenses down to an inert fine crystalline powder (takes rou
 
 ## Appearances
 - [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)
+- [Issue 004 -- A Lull in the Storm (War of the Worlds Part 4)](sessions/Issue-004.md)
 
 <!--
 Secrets

@@ -31,6 +31,7 @@
 		- [Issue 001 -- Invasion (War of the Worlds Part 1)](sessions/Issue-001.md)
 		- [Issue 002 -- Showdown in Sandy Hills (War of the Worlds Part 2)](sessions/Issue-002.md)
 		- [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)
+		- [Issue 004 -- A Lull in the Storm (War of the Worlds Part 4)](sessions/Issue-004.md)
 - Headlines
 	- [October 1938](headlines/Headlines_10_1938.md)
 	- [November 1938](headlines/Headlines_11_1938.md)

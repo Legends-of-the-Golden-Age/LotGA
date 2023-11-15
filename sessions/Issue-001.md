@@ -83,12 +83,12 @@ In the aftermath, just as Lt. Davis is thanking the heroes for their help, he re
 ## Participants
 - [Benny Martin](/npcs/friends_and_allies/Benny_Martin.md)
 - [Diamondback](/player_characters/Diamondback.md)
-- [Double_Time](/player_characters/Double_Time.md)
+- [Double-Time](/player_characters/Double_Time.md)
 - [Lt. Dan Davis](/npcs/friends_and_allies/military/Dan_Davis.md)
 - [Martians](/npcs/foes/martians/Martian.md)
 - [National Guard](/organizations/US_Government/US_National_Guard.md)
-- [Professor_Polar](/player_characters/Professor_Polar.md)
-- [Reginald_Reeds](/npcs/friends_and_allies/Reginald_Reeds.md)
+- [Professor Polar](/player_characters/Professor_Polar.md)
+- [Reginald Reeds](/npcs/friends_and_allies/Reginald_Reeds.md)
 - [Shard](/player_characters/Shard.md)
 - [Sir Mansel of Muddlescrombe](/npcs/friends_and_allies/government/Mansel_Muddlescrombe.md)
 - [Tarraingteacht](/npcs/friends_and_allies/Tarraingteacht.md)
@@ -96,19 +96,19 @@ In the aftermath, just as Lt. Davis is thanking the heroes for their help, he re
 - [Zoltan](/player_characters/Zoltan.md)
 
 ## Locations
-- [Antonova_Estate](/locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
-- [Grovers_Mill](locations/New_Jersey/Grovers_Mill.md)
-- [New_York_City](/locations/New_York_State/New_York_City/New_York_City.md)
-- [Staten_Island](/locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md)
+- [Antonova Estate](/locations/New_York_State/New_York_City/Staten_Island/Antonova_Estate.md)
+- [Grover's Mill](locations/New_Jersey/Grovers_Mill.md)
+- [New York City](/locations/New_York_State/New_York_City/New_York_City.md)
+- [Staten Island](/locations/New_York_State/New_York_City/Staten_Island/Staten_Island.md)
 
 ## Items
-- [Martian_Heat_Ray](items/Martian_Heat_Ray.md)
-- [Martian_Landing_Pod](items/Martian_Landing_Pod.md)
-- [Martian_Tripod](items/Martian_Tripod.md)
+- [Martian Heat Ray](items/Martian_Heat_Ray.md)
+- [Martian Landing Pod](items/Martian_Landing_Pod.md)
+- [Martian Tripod](items/Martian_Tripod.md)
 
 ## Related
-- [Headlines_10_1938](/headlines/Headlines_10_1938.md)
-- [Headlines_11_1938](/headlines/Headlines_11_1938.md)
+- [Headlines Oct 1938](/headlines/Headlines_10_1938.md)
+- [Headlines Nov 1938](/headlines/Headlines_11_1938.md)
 
 ## Previous Issue
 none

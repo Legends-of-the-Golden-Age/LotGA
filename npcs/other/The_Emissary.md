@@ -59,7 +59,7 @@ Robotic and enigmatic
 
 ## Adventures
 - [Issue 003 -- Battle of New Brunswick (War of the Worlds Part 3)](sessions/Issue-003.md)
-
+- [Issue 004 -- A Lull in the Storm](sessions/Issue-004.md)
 
 <!-- GM Notes
 [pdf](https://legends-of-the-golden-age.github.io/LotGA/pdf/Amon-Ra.pdf)
